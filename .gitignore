@@ -4,5 +4,6 @@
 src/**/und/*
 src/**/maps.txt
 src/**/renames.txt
+*.txt
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#1C
