@@ -74,7 +74,6 @@ rank,song,artist,genre,year
 73,Somewhere Over the Rainbow,Israel Kamakawiwo'ole,World,1990.0
 74,Don’t Come Lookin’,Jackson Dean,Country,2021.0
 75,Love Me Like I Am,for KING & COUNTRY & Jordin Sparks,Christian & Gospel,2022.0
-76,CUFF IT,Beyoncé,Pop,2022.0
 77,down home,Jimmie Allen,Country,2022.0
 78,Tití Me Preguntó,Bad Bunny,Latin,2022.0
 79,Joy of My Life,Chris Stapleton,Country,2020.0
@@ -87,7 +86,6 @@ rank,song,artist,genre,year
 86,Havana (Live),Camila Cabello,Pop,2019.0
 87,Fancy Like,Walker Hayes,Country,2021.0
 88,World's Smallest Violin,AJR,Alternative,2020.0
-89,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 90,"Take Me Home, Country Roads",John Denver,Traditional Country,1971.0
 91,She Likes It (feat. Jake Scott),Russell Dickerson & Jake Scott,Country,2021.0
 92,Tomorrow 2,GloRilla & Cardi B,Hip-Hop / Rap,2022.0
@@ -101,14 +99,8 @@ rank,song,artist,genre,year
 100,Bedroom Singer,J.Fla,Alternative,2022.0
 1,DON'T YOU WORRY,"Black Eyed Peas, Shakira & David Guetta",Pop,2022.0
 2,Dirty Dancing (feat. Asdis),Glockenbach,Dance,2022.0
-3,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
-4,Forget Me,Lewis Capaldi,Alternative,2022.0
 5,Kompliment,Melissa Naschenweng,German Pop,2022.0
-6,Hold My Hand,Lady Gaga,Pop,2022.0
 7,SNAP,Rosa Linn,Indie Pop,2022.0
-8,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-9,As It Was,Harry Styles,Pop,2022.0
-10,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
 11,When You're Gone,Shawn Mendes,Pop,2022.0
 12,Sun Will Shine,Robin Schulz & Tom Walker,Dance,2022.0
 13,Crazy Love,Toby Romeo & Leony,Dance,2022.0
@@ -127,7 +119,6 @@ rank,song,artist,genre,year
 26,Segel im Wind,Peter Cornelius,Pop,2022.0
 27,In The Dark,Purple Disco Machine & Sophie and the Giants,Dance,2022.0
 28,Hopelessly Devoted to You,Olivia Newton-John,Musicals,2022.0
-29,I Ain't Worried,OneRepublic,Pop,2022.0
 30,Wildberry Lillet,Nina Chuba,Hip Hop/Rap,2022.0
 31,die sunn und di,Pizzera & Jaus,Pop,2022.0
 32,Lover,Taylor Swift,Pop,2022.0
@@ -143,7 +134,6 @@ rank,song,artist,genre,year
 42,BOYS,Aidan Martin,Pop,2022.0
 43,As It Was (Spanish Version),Rothe C,Pop,2022.0
 44,V noci se dějou věci,Like-It,Pop/Rock,2022.0
-45,As It Was,Milky Chance,Indie Pop,2022.0
 46,Somethin' Else (Live),Stray Cats,Rock,2022.0
 47,Fromage collatéral (Demo),World Brain,Indie Pop,2022.0
 48,Papi's Wishing Wheel (feat. Jaakko Eino Kalevi),The Zenmenn,Indie Pop,2022.0
@@ -199,15 +189,10 @@ rank,song,artist,genre,year
 1,Warrior,Oscar and the Wolf,Pop,2022.0
 2,Noodgeval,Goldband,Pop,2022.0
 3,I'm Good (Blue) [Extended],David Guetta & Bebe Rexha,Dance,2022.0
-4,As It Was,Harry Styles,Pop,2022.0
 5,Calm Down,Rema,World,2022.0
-6,Celestial,Ed Sheeran,Pop,2022.0
-7,THE LONELIEST,Måneskin,Rock,2022.0
 8,Better Off Alone,Berre,Pop,2022.0
 9,Follow Me (DJ Jordan Extended Remix),"Derb, Mark Sherry & Space Frog",Dance,2022.0
-10,Unholy,Sam Smith & Kim Petras,Pop,2022.0
 11,DESPECHÁ,ROSALÍA,Pop in Spanish,2022.0
-12,Bad Memories (feat. Elley Duhé & FAST BOY),Meduza & James Carter,Dance,2022.0
 13,Liquid Is Liquid (Extended Mix),Alberto Remondini & Sergio Marini,Dance,2022.0
 14,Call on me (feat. Ed Sheeran),Vianney,French Pop,2022.0
 15,Million Dollar Baby,Ava Max,Pop,2022.0
@@ -218,48 +203,35 @@ rank,song,artist,genre,year
 20,B.O.T.A. (Baddest Of Them All),Eliza Rose & Interplanetary Criminal,Dance,2022.0
 21,Dovy Keukens Hardcore Remix,POMBAK,Hardcore,2022.0
 22,Kwijt,Suzan & Freek,Pop,2022.0
-23,I Ain't Worried,OneRepublic,Pop,2022.0
 24,Afraid To Feel,LF SYSTEM,Dance,2022.0
-25,CUFF IT,Beyoncé,Pop,2022.0
 26,Vleugels,K3,Pop,2022.0
-27,2 Be Loved (Am I Ready),Lizzo,Pop,2022.0
-28,SNAP,Rosa Linn,Indie Pop,2022.0
 29,Show Your Love,"Nils van Zandt, AMARI & Mr. Jim",Dance,2022.0
-30,Numb,Marshmello & Khalid,R&B/Soul,2022.0
 31,Wat Een Idee!?,Pommelien Thijs,Pop,2022.0
 32,Dance with Me,Kevin de Vries,Electronic,2022.0
 33,All By Myself,"Alok, Sigala & Ellie Goulding",Dance,2022.0
 34,Quando Quando (feat. Patrizia Ferrara),The Avener & Waldeck,Electronic,2022.0
 35,Visstick Gooi Die Kanker Kick,Natte Visstick,Dance,2022.0
-36,How Do I Say Goodbye,Dean Lewis,Singer/Songwriter,2022.0
-37,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,Pop,2022.0
 38,Spoor 5,Natte Visstick,Dance,2022.0
 39,Vivre,Michel Berger,French Pop,2022.0
 40,Water (feat. Clara La San),Bicep,Electronic,2022.0
 41,Eye of the Tiger,Survivor,Soundtrack,2022.0
 42,Hijo de la luna,Mecano,Pop,2022.0
 43,Jerusalema (feat. Nomcebo Zikode) [Edit],Master KG,Dance,2022.0
-44,Hold My Hand,Lady Gaga,Pop,2022.0
 45,Follow the Sun,Xavier Rudd,Alternative,2022.0
 46,Demasiado Corazon (Too Much Heart),Mink DeVille,Pop,2022.0
 47,Dat Heb Jij Gedaan,MEAU,Pop,2022.0
-48,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-49,DON'T YOU WORRY,"Black Eyed Peas, Shakira & David Guetta",Pop,2022.0
 50,Where Did You Go?,Jax Jones & MNEK,Dance,2022.0
 51,In De Regen,Camille,Pop,2022.0
-52,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 53,Here I Go Again,Whitesnake,Hard Rock,2022.0
 54,Bewegen Is Gezond,Kinderen Voor Kinderen,Pop,2022.0
 55,Sweet Child O' Mine,Guns N' Roses,Hard Rock,2022.0
 56,Uit Mijn Hoofd (De Bromeo's Remix),Pauline,Dance,2022.0
 57,Say My Name,Berre,Pop,2022.0
 58,Over You,"Sharam Jey, Celestal & Moss Kena",Electronic,2022.0
-59,About Damn Time,Lizzo,Pop,2022.0
 60,Drugs From Amsterdam,Mau P,Dance,2022.0
 61,La recette,Slimane,French Pop,2022.0
 62,B.O.T.A. (Baddest Of Them All) [Edit],Eliza Rose & Interplanetary Criminal,Dance,2022.0
 63,Stay With Me,"Calvin Harris, Justin Timberlake, Halsey & Pharrell Williams",Dance,2022.0
-64,Calm Down,Rema & Selena Gomez,Pop,2022.0
 65,Blind Op Zoek (Trapagas),Jinho 9,Hip Hop/Rap,2022.0
 66,Secret,Louane,French Pop,2022.0
 67,Tout savoir,Adé,French Pop,2022.0
@@ -296,116 +268,44 @@ rank,song,artist,genre,year
 98,"Orchestral Suite No. 3 in D Major, BWV 1068: V. Gigue",Dunedin Consort & John Butt,Classical,2022.0
 99,Champagne Problems,ENNY,Hip-Hop,2022.0
 100,Fruity,chloe moriondo,Pop,2022.0
-1,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
-2,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-3,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
 4,Flowers Need Rain,Preston Pablo & Banx & Ranx,Pop,2022.0
-5,I Ain't Worried,OneRepublic,Pop,2022.0
-6,Numb,Marshmello & Khalid,R&B/Soul,2022.0
 7,Can't Fight the Moonlight,LeAnn Rimes,Soundtrack,2022.0
-8,Shallow,Lady Gaga & Bradley Cooper,Soundtrack,2022.0
-9,Lose Yourself,Eminem,Soundtrack,2022.0
-10,Sunroof,Nicky Youre & Dazy,Pop,2022.0
 11,Run Away to Mars,TALK,Rock,2022.0
-12,Unstoppable,Sia,Pop,2022.0
-13,She Had Me At Heads Carolina,Cole Swindell,Country,2022.0
-14,Forget Me,Lewis Capaldi,Alternative,2022.0
-15,CUFF IT,Beyoncé,Pop,2022.0
-16,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
-17,Always Remember Us This Way,Lady Gaga,Soundtrack,2022.0
-18,As It Was,Harry Styles,Pop,2022.0
-19,Make It With You,Bread,Soft Rock,2022.0
-20,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,Pop,2022.0
-21,About Damn Time,Lizzo,Pop,2022.0
-22,Love Me Like You Do,Ellie Goulding,Soundtrack,2022.0
-23,You Proof,Morgan Wallen,Country,2022.0
-24,A Thousand Years,Christina Perri,Soundtrack,2022.0
-25,Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,Pop,2022.0
 26,Don't You (Forget About Me),Simple Minds,Soundtrack,2022.0
-27,Left and Right,Charlie Puth & Jung Kook,Pop,2022.0
-28,Victoria’s Secret,Jax,Pop,2022.0
-29,Fall In Love,Bailey Zimmerman,Country,2022.0
-30,Everywhere,Fleetwood Mac,Rock,2022.0
-31,The Kind of Love We Make,Luke Combs,Country,2022.0
-32,wait in the truck,HARDY & Lainey Wilson,Country,2022.0
-33,Thank God,Kane Brown & Katelyn Brown,Country,2022.0
-34,Cold Heart (PNAU Remix),Elton John & Dua Lipa,Pop,2022.0
-35,Running Up That Hill (A Deal with God),Kate Bush,Pop,2022.0
-36,2 Be Loved (Am I Ready),Lizzo,Pop,2022.0
-37,How Do I Say Goodbye,Dean Lewis,Singer/Songwriter,2022.0
 38,Chill Like That,Sunday Scaries & PiCKUPLiNES,Dance,2022.0
 39,Bam Bam (feat. Ed Sheeran),Camila Cabello,Pop,2022.0
-40,Wasted On You,Morgan Wallen,Country,2022.0
-41,Rock and a Hard Place,Bailey Zimmerman,Country,2022.0
-42,I Like You (A Happier Song) [feat. Doja Cat],Post Malone,Hip Hop/Rap,2022.0
-43,Under the Influence,Chris Brown,R&B/Soul,2022.0
-44,This Is Halloween,The Citizens of Halloween,Soundtrack,2022.0
-45,Soul,Lee Brice,Country,2022.0
-46,Late Night Talking,Harry Styles,Pop,2022.0
-47,DON'T YOU WORRY,"Black Eyed Peas, Shakira & David Guetta",Pop,2022.0
-48,Never Leave,Bailey Zimmerman,Country,2022.0
 49,It Must Have Been Love,Jeanick Fournier,Adult Contemporary,2022.0
 50,ILLELLA,MAMAMOO,K-Pop,2022.0
-51,I'm Good (Blue) [Extended],David Guetta & Bebe Rexha,Dance,2022.0
 52,I Surrender,Jeanick Fournier,Adult Contemporary,2022.0
-53,Eagle (feat. KB),Transformation Worship,Hip Hop/Rap,2022.0
-54,Gangsta's Paradise (feat. L.V.),Coolio,Hip Hop/Rap,2022.0
-55,Havana (feat. Young Thug),Camila Cabello,Pop,2022.0
 56,She Keeps Me Up,Nickelback,Rock,2022.0
-57,Shivers,Ed Sheeran,Pop,2022.0
-58,Everything I Own,Bread,Soft Rock,2022.0
 59,We Don't Talk About Bruno,"Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto - Cast",Soundtrack,2022.0
-60,Bones,Imagine Dragons,Alternative,2022.0
-61,Son Of A Sinner,Jelly Roll,Rock,2022.0
-62,5 Foot 9,Tyler Hubbard,Country,2022.0
-63,SNAP,Rosa Linn,Indie Pop,2022.0
-64,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
-65,No Body,Blake Shelton,Country,2022.0
 66,La tribu de Dana,Manau,Hip Hop/Rap,2022.0
 67,The Right Kind of Wrong,LeAnn Rimes,Soundtrack,2022.0
-68,When You're Gone,Shawn Mendes,Pop,2022.0
 69,Heal,Tom Odell,Alternative,2022.0
-70,Super Freaky Girl,Nicki Minaj,Hip Hop/Rap,2022.0
-71,Belly Dancer,Imanbek & BYOR,Dance,2022.0
-72,Something in the Orange,Zach Bryan,Country,2022.0
-73,Celestial,Ed Sheeran,Pop,2022.0
-74,Calm Down,Rema & Selena Gomez,Pop,2022.0
 75,BILLIE EILISH.,Armani White,Hip Hop/Rap,2022.0
 76,I Found You,Nate Smith,Country,2022.0
 77,"I Know Where I've Been (from the Netflix Film ""Luckiest Girl Alive"")",Elle King,Pop,2022.0
-78,Forever,"Drake, Kanye West, Lil Wayne & Eminem",Soundtrack,2022.0
 79,September,"Earth, Wind & Fire",R&B/Soul,2022.0
-80,Baby I'm-A Want You,Bread,Soft Rock,2022.0
-81,Hold My Hand,Lady Gaga,Pop,2022.0
 82,Half Of Me (feat. Riley Green),Thomas Rhett,Country,2022.0
 83,Knock Off,Jess Moskaluke,Country,2022.0
-84,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
 85,Scream,Masayoshi Soken,Soundtrack,2022.0
 86,We All Are,Mirror,Cantopop,2022.0
 87,L.I.E.C,MAMAMOO,K-Pop,2022.0
 88,Thunderstruck,AC/DC,Hard Rock,2022.0
-89,Tennessee Whiskey,Chris Stapleton,Country,2022.0
 90,Heat Waves,Glass Animals,Alternative,2022.0
-91,Sweet Child O' Mine,Guns N' Roses,Hard Rock,2022.0
-92,If,Bread,Soft Rock,2022.0
 93,"Hold My Hand (Music From The Motion Picture ""Top Gun: Maverick"")",Lady Gaga,Pop,2022.0
 94,Surface Pressure,Jessica Darrow,Soundtrack,2022.0
 95,Trompeta,Willy William,Dance,2022.0
 96,Whiskey On You,Nate Smith,Country,2022.0
 97,Those Days,Nickelback,Pop,2022.0
-98,Narco,Blasterjaxx & Timmy Trumpet,Dance,2022.0
 99,San Quentin,Nickelback,Rock,2022.0
 100,Patient Number 9 (feat. Jeff Beck),Ozzy Osbourne,Heavy Metal,2022.0
-1,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
-2,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 3,Tippa-T,Turisti & Elastinen,Hip Hop/Rap,2022.0
-4,Unholy,Sam Smith & Kim Petras,Pop,2022.0
 5,Summer Really Hurt Us,ALMA,Pop,2022.0
 6,Under My Thumb,The Rolling Stones,Rock,2022.0
 7,Jump Jive an' Wail,The New 101 Strings Orchestra,Easy Listening,2022.0
 8,Stupid Girl,The Rolling Stones,Rock,2022.0
 9,Svífum,Karen Ósk & Birgir,Pop,2022.0
-10,Therapy pt. 2 (feat. Mac Miller),Robert Glasper,Jazz,2022.0
 11,Do It Again (feat. 2Rare),NLE Choppa,Hip Hop/Rap,2022.0
 12,La Única,Kali Uchis,Pop in Spanish,2022.0
 13,SKAOL SKADLE,Ylvis & Kjartan Lauritzen,Pop,2022.0
@@ -425,10 +325,8 @@ rank,song,artist,genre,year
 27,Bad,Maya B & Omeretta the Great,Hip Hop/Rap,2022.0
 28,TORO,Jowell & Randy,Latin,2022.0
 29,Out of My Mind,Black Honey,Alternative,2022.0
-30,Like That,DJ38SUN & SunB,Electronica,2022.0
 31,Tegnum la man,The Vad Vuc,Pop,2022.0
 32,The Power,Matoma,Dance,2022.0
-33,Champagne Problems,ENNY,Hip-Hop,2022.0
 34,Where Are U,Nikki Nair,Bass,2022.0
 35,GO,KOYOTE,K-Pop,2022.0
 36,Feel Alive,FLOHIO,Hip Hop/Rap,2022.0
@@ -452,9 +350,7 @@ rank,song,artist,genre,year
 54,Everlasting Bomb,Widescreen Mode,Pop,2022.0
 55,Missä Muruseni On,Jenni Vartiainen,Pop,2022.0
 56,Rolling In the Deep,Adele,Pop,2022.0
-57,Gangnam Style,PSY,Pop,2022.0
 58,Euphoria (Single Version),Loreen,Dance,2022.0
-59,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] [feat. Freshlyground],Shakira,Pop,2022.0
 60,Timantit On Ikuisia,Cheek,Hip Hop/Rap,2022.0
 61,Selvä Päivä,Petri Nygard,Pop,2022.0
 62,Set Fire to the Rain,Adele,Pop,2022.0
@@ -462,21 +358,17 @@ rank,song,artist,genre,year
 64,Bad Romance,Lady Gaga,Pop,2022.0
 65,Maailman Toisella Puolen,Haloo Helsinki!,World,2022.0
 66,Silkkii,Jukka Poika,Reggae,2022.0
-67,Happy (Oktoberfest Mix),Pharrell Williams,Pop,2022.0
 68,Häissä (feat. Märkä-Simo),JVG,Pop,2022.0
 69,Kran Turismo (feat. Raappana),JVG,Pop,2022.0
-70,Love the Way You Lie (feat. Rihanna),Eminem,Hip Hop/Rap,2022.0
 71,Someone Like You,Adele,Pop,2022.0
 72,Mikä Boogie,Fintelligens,Hip Hop/Rap,2022.0
 73,Vapaa,Kaija Koo,Pop,2022.0
 74,Jos Sä Tahdot Niin,Jippu & Samuli Edelmann,Pop,2022.0
 75,Nuori Ja Kaunis (feat. Olavi Uusivirta),Anna Järvinen,Pop,2022.0
 76,Frontside Ollie,Robin,Pop,2022.0
-77,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
 78,Levikset repee (feat. VilleGalle),Sini Sabotage,Hip Hop/Rap,2022.0
 79,Mr. Saxobeat (Maan Extended Version),Alexandra Stan,Dance,2022.0
 80,Syypää sun hymyyn (feat. Yasmine Yamajako),Cheek,Hip Hop/Rap,2022.0
-81,Hey Brother,Avicii,House,2022.0
 82,Reggaerekka (Radio Edit) [feat. Petri Nygård],Lord Est,Pop,2022.0
 83,Mennyt Mies,J. Karjalainen,Pop,2022.0
 84,Stereo Love (Radio Edit),Edward Maya & Vika Jigulina,Dance,2022.0
@@ -490,82 +382,37 @@ rank,song,artist,genre,year
 92,Ravistettava Ennen Käyttöä,Apulanta,Rock,2022.0
 93,Hot N Cold,Katy Perry,Pop,2022.0
 94,Get Lucky (feat. Pharrell Williams) [Radio Edit],Daft Punk,Pop,2022.0
-1,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
-2,SNAP,Rosa Linn,Indie Pop,2022.0
-3,Dirty Dancing (feat. Asdis),Glockenbach,Dance,2022.0
-4,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-5,Belly Dancer,Imanbek & BYOR,Dance,2022.0
-6,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-7,Einmal sehen wir uns wieder,Joel Brandenstein,Pop,2022.0
 8,Heavy Metal Love,twocolors,Dance,2022.0
-9,Wildberry Lillet,Nina Chuba,Hip Hop/Rap,2022.0
-10,DON'T YOU WORRY,"Black Eyed Peas, Shakira & David Guetta",Pop,2022.0
-11,Celestial,Ed Sheeran,Pop,2022.0
-12,As It Was,Harry Styles,Pop,2022.0
 13,Let It Rain Down (feat. PollyAnna),Alle Farben,Dance,2022.0
-14,CUFF IT,Beyoncé,Pop,2022.0
-15,Bad Memories (feat. Elley Duhé & FAST BOY),Meduza & James Carter,Dance,2022.0
-16,Hold My Hand,Lady Gaga,Pop,2022.0
-17,Sun Will Shine,Robin Schulz & Tom Walker,Dance,2022.0
 18,Call It Love,Felix Jaehn & Ray Dalton,Dance,2022.0
-19,Irrelevant,P!nk,Pop,2022.0
 20,3 Tage am Meer,AnnenMayKantereit,Pop,2022.0
-21,Crazy Love,Toby Romeo & Leony,Dance,2022.0
 22,Kiss Me,Dermot Kennedy,Pop,2022.0
 23,Layla,DJ Robin & Schürze,German Pop,2022.0
-24,Forget Me,Lewis Capaldi,Alternative,2022.0
 25,Don't Stop Believin',Teddy Swims,Pop,2022.0
 26,Thank You,Gestört aber GeiL & Anna Grey,Dance,2022.0
-27,Million Dollar Baby,Ava Max,Pop,2022.0
 28,Es ist alles ok,Roland Kaiser,German Pop,2022.0
-29,Ferrari,James Hype & Miggy Dela Rosa,Dance,2022.0
-30,Kernkraft 400 (A Better Day),Topic & A7S,Dance,2022.0
-31,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,Pop,2022.0
 32,Fühlst du das auch,Apache 207,Hip Hop/Rap,2022.0
-33,THE LONELIEST,Måneskin,Rock,2022.0
 34,AUF AUF,Silbermond,Pop,2022.0
-35,I Ain't Worried,OneRepublic,Pop,2022.0
-36,Samba,YouNotUs & Louis III,Dance,2022.0
-37,Numb,Marshmello & Khalid,R&B/Soul,2022.0
 38,Ich hass dich,Nina Chuba & Chapo102,Hip Hop/Rap,2022.0
 39,Another Love,Tom Odell,Singer/Songwriter,2022.0
 40,I Believe,KAMRAD,Pop,2022.0
-41,Do It Better (feat. Zoe Wees),Felix Jaehn,Dance,2022.0
 42,Someone Else,ClockClock,Pop,2022.0
 43,Für diesen Moment,Alexander Eder,Pop,2022.0
-44,Sunroof,Nicky Youre & Dazy,Pop,2022.0
 45,Another Love (TikTok Trend Edit),House Of Paper,Dance,2022.0
-46,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-47,Bam Bam (feat. Ed Sheeran),Camila Cabello,Pop,2022.0
 48,Jump,Van Halen,Hard Rock,2022.0
 49,Wildberry Lillet (Remix),Nina Chuba & Juju,Hip Hop/Rap,2022.0
 50,Miss You,Southstar,Dance,2022.0
-51,All By Myself,"Alok, Sigala & Ellie Goulding",Dance,2022.0
-52,SNAP,Rosa Linn,Indie Pop,2022.0
-53,Cold Heart (PNAU Remix),Elton John & Dua Lipa,Pop,2022.0
-54,When You're Gone,Shawn Mendes,Pop,2022.0
 55,Solo Para Ti,Alvaro Soler & Topic,Pop in Spanish,2022.0
 56,Bamba (feat. BIA),Luciano & Aitch,Hip Hop/Rap,2022.0
-57,Stärker (feat. Zeynep Avci),Johannes Oerding,Pop,2022.0
-58,Don't Stop Believin',Journey,Rock,2022.0
 59,Roller,Apache 207,Hip Hop/Rap,2022.0
-60,Unstoppable,Sia,Pop,2022.0
 61,Infinity,Jaymes Young,Alternative,2022.0
 62,Gönn Dir,twenty4tim,Pop,2022.0
 63,Olivia (feat. DJ Cashi),Die Zipfelbuben,German Pop,2022.0
-64,West Coast,OneRepublic,Pop,2022.0
 65,Der Zug hat keine Bremse (Mallorcastyle Edition),"Mia Julia, Lorenz Büffel & Malle Anja",German Pop,2022.0
 66,Wir sagen danke schön,Die Flippers,German Pop,2022.0
 67,Looking For Love,Lena,Pop,2022.0
 68,Best Bad Friend,Michael Patrick Kelly & Rea Garvey,Pop,2022.0
-69,Maybe You’re The Problem,Ava Max,Pop,2022.0
-70,Stay With Me,"Calvin Harris, Justin Timberlake, Halsey & Pharrell Williams",Dance,2022.0
 71,Fette Wilde Jahre,Juli,Pop,2022.0
-72,B.O.T.A. (Baddest Of Them All) [Edit],Eliza Rose & Interplanetary Criminal,Dance,2022.0
-73,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
-74,Gangsta's Paradise (feat. L.V.),Coolio,Hip Hop/Rap,2022.0
-75,Another Love,Tom Odell,Singer/Songwriter,2022.0
-76,In The Dark,Purple Disco Machine & Sophie and the Giants,Dance,2022.0
 77,Pepas,Farruko,Latin Urban,2022.0
 78,Move Your Body,Öwnboss & SEVEK,Dance,2022.0
 79,Remedy,Leony,Pop,2022.0
@@ -574,14 +421,9 @@ rank,song,artist,genre,year
 82,Schmetterling,SOPHIA,Pop,2022.0
 83,YOU,Phil The Beat,Pop,2022.0
 84,With You,Michael Schulte,Pop,2022.0
-85,About Damn Time,Lizzo,Pop,2022.0
 86,In Der Natur,Deichkind,Dance,2022.0
-87,I'm Good (Blue) [Extended],David Guetta & Bebe Rexha,Dance,2022.0
 88,Schockverliebt,Eric Philippi,German Pop,2022.0
-89,Late Night Talking,Harry Styles,Pop,2022.0
 90,Deep Down (feat. Never Dull),"Alok, Ella Eyre & Kenny Dope",Dance,2022.0
-91,Baraye,Shervin Hajipour,R&B/Soul,2022.0
-92,Calm Down,Rema & Selena Gomez,Pop,2022.0
 93,Zuversicht,Roland Kaiser,German Pop,2022.0
 94,Love It,Laurell,Pop,2022.0
 95,Wer hat hier schlechte Laune,Max Raabe & Palast Orchester,Pop,2022.0
@@ -589,10 +431,8 @@ rank,song,artist,genre,year
 97,Ein Tag wie Gold,Max Raabe & Palast Orchester,Pop,2022.0
 98,The Pirate's Gospel,Alela Diane,Pop,2022.0
 99,West Connect,Luciano & Central Cee,Hip Hop/Rap,2022.0
-100,Ein Tag wie Gold,Meret Becker & MEUTE,Soundtrack,2022.0
 1,Champion,Aural Fragment,Electronic,2022.0
 2,Wonder,Twmmy,Pop,2022.0
-3,Unholy,Sam Smith & Kim Petras,Pop,2022.0
 4,The Holy War,Thin Lizzy,Hard Rock,2022.0
 5,Poland,Lil Yachty,Hip Hop/Rap,2022.0
 6,Thalassa (The Sea),Yannis Markopoulos,Pop,2022.0
@@ -601,40 +441,27 @@ rank,song,artist,genre,year
 9,Kokoriko,Giorgos Katsaros,Europe,2022.0
 10,Stis Gramvousas t'akrotiri,Kostas Mountakis & Yannis Xylouris,World,2022.0
 11,Physical Education,Animals As Leaders,Heavy Metal,2022.0
-12,Skyfall,Adele,Pop,2022.0
-13,Rolling In the Deep,Adele,Pop,2022.0
 14,You Will Never Know,Imany,Pop,2022.0
 15,Pio Psila,Vegas,Pop,2022.0
 16,Alors on danse (Mowgli Remix),Stromae,Dance,2022.0
 17,Je veux,ZAZ,French Pop,2022.0
 18,Fila Me Akoma (Baciami Ancora),Panos Mouzourakis & Maraveyas,Pop,2022.0
-19,Someone Like You,Adele,Pop,2022.0
 20,In and Out of Love (feat. Sharon den Adel) [Radio Edit],Armin van Buuren,Dance,2022.0
-21,Love the Way You Lie (feat. Rihanna),Eminem,Hip Hop/Rap,2022.0
 22,I Can't Breathe,Twmmy,Pop,2022.0
-23,Let Her Go,Passenger,Pop,2022.0
 24,To Kalokairi Mou,Michalis Hatzigiannis,Pop,2022.0
-25,Set Fire to the Rain,Adele,Pop,2022.0
 26,Last Summer,Nikos Ganos,Electronic,2022.0
 27,Non Ti Scordar Mai Di Me,Giusy Ferreri,Pop,2022.0
 28,Tainted Love,Kwan,Rock,2022.0
 29,Mia Kokkini Grammi,Natasa Theodoridou,Pop,2022.0
-30,Bad Romance,Lady Gaga,Pop,2022.0
 31,Diamonds,Rihanna,Pop,2022.0
 32,Shape of You,Ed Sheeran,Pop,2022.0
-33,Get Lucky (feat. Pharrell Williams) [Radio Edit],Daft Punk,Pop,2022.0
 34,Love Me Again (Gemini Remix),John Newman,Pop,2022.0
 35,I Follow Rivers,Lykke Li,Alternative,2022.0
 36,Dernière danse,Indila,French Pop,2022.0
 37,Empire State Of Mind (feat. Alicia Keys),JAY-Z,Hip Hop/Rap,2022.0
-38,Summer Wine,Ville Valo & Natalia Avelon,Pop,2022.0
-39,Gangnam Style,PSY,Pop,2022.0
 40,Sleepless,Until June,Rock,2022.0
-41,Impossible,James Arthur,Pop,2022.0
 42,All of Me,John Legend,R&B/Soul,2022.0
-43,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] [feat. Freshlyground],Shakira,Pop,2022.0
 44,As Long As There Is You (PH2 Remix),Timi Yuro,Pop,2022.0
-45,Hot N Cold,Katy Perry,Pop,2022.0
 46,Despacito (Mandarin Version) [feat. JJ Lin],Luis Fonsi,Pop in Spanish,2022.0
 47,Tik Tok (Fred Falke Club Remix),Kesha,Pop,2022.0
 48,An Eisai Ena Asteri,Nikos Vertis,Pop,2022.0
@@ -642,7 +469,6 @@ rank,song,artist,genre,year
 50,Mercy,Duffy,Pop,2022.0
 51,Poker Face,Lady Gaga,Pop,2022.0
 52,Cry Cry,Oceana,Pop,2022.0
-53,Love Me Like You Do,Ellie Goulding,Soundtrack,2022.0
 54,Ocean Drive (Extended Mix),Duke Dumont,Electronic,2022.0
 55,El Corazon,Arno Elias,Electronic,2022.0
 56,+ Σε Θέλω,Sakis Rouvas,Pop,2022.0
@@ -652,12 +478,8 @@ rank,song,artist,genre,year
 60,Just Hold Me,Maria Mena,Pop,2022.0
 61,Stepping Stone,Duffy,Pop,2022.0
 62,An Tha Borousa Ton Kosmo Na Allaza (Instrumental),Filippos Pliatsikas,World,2022.0
-63,Euphoria (Single Version),Loreen,Dance,2022.0
 64,I Epimoni Sou,Eleonora Zouganeli & Kostas Livadas,Pop,2022.0
 65,The Quest,Bryn Christopher,Hip Hop/Rap,2022.0
-66,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
-67,Shallow,Lady Gaga & Bradley Cooper,Soundtrack,2022.0
-68,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
 69,Addicted (Radio Edit),Serge Devant,Dance,2022.0
 70,Heavy Cross,Gossip,Alternative,2022.0
 71,How Deep Is Your Love,Calvin Harris & Disciples,Dance,2022.0
@@ -669,8 +491,6 @@ rank,song,artist,genre,year
 77,Beggin' (Pilooski Re-Edit),Frankie Valli & The Four Seasons,Alternative,2022.0
 78,Poses Hiliades Kalokairia,Demy,Pop,2022.0
 79,Where Have You Been,Rihanna,Pop,2022.0
-80,Blurred Lines (feat. T.I. & Pharrell),Robin Thicke,Pop,2022.0
-81,Impossible,Daniel Merriweather,Pop,2022.0
 82,Iparhi Zoi,Despina Vandi,World,2022.0
 83,Right Round (feat. Ke$ha),Flo Rida,Hip Hop/Rap,2022.0
 84,Locked Out of Heaven,Bruno Mars,Pop,2022.0
@@ -692,7 +512,6 @@ rank,song,artist,genre,year
 15,"Megham Karukatha (From ""Thiruchitrambalam"")",Dhanush & Anirudh Ravichander,Tamil,2022.0
 16,"Galliyan Returns (From ""Ek Villain Returns"")",Ankit Tiwari,Bollywood,2022.0
 17,Caviar,Diljit Dosanjh,Punjabi Pop,2022.0
-18,Calm Down,Rema & Selena Gomez,Pop,2022.0
 19,I Ain’t Worried (Acoustic),OneRepublic,Pop,2022.0
 20,Lokiverse (Background Score),Anirudh Ravichander,Tamil,2022.0
 21,Rolex Theme (Background Score),Anirudh Ravichander,Tamil,2022.0
@@ -711,14 +530,11 @@ rank,song,artist,genre,year
 34,Har Har Shambhu Shiv Mahadeva (feat. Abhilipsa Panda),Jeetu Sharma,Devotional & Spiritual,2022.0
 35,"Veera Soora (From ""Naane Varuvean"")","Yuvanshankar Raja, Muthu Sirpi & Selva Raghavan",Tamil,2022.0
 36,Ram Siya Ram,Sachet Tandon,Devotional & Spiritual,2022.0
-37,Say My Name,ATEEZ,K-Pop,2022.0
-38,Love Me Like You Do,Ellie Goulding,Soundtrack,2022.0
 39,Starboy (feat. Daft Punk),The Weeknd,R&B/Soul,2022.0
 40,"Master the Blaster (From ""Master"")",Anirudh Ravichander & Bjorn Surrao,Tamil,2022.0
 41,Believer,Imagine Dragons,Alternative,2022.0
 42,The Last Ride,Sidhu Moose Wala,Indian Pop,2022.0
 43,Syl,Sidhu Moose Wala,Indian Pop,2022.0
-44,Under the Influence,Chris Brown,R&B/Soul,2022.0
 45,Aathma Raama,Brodha V,Tamil,2022.0
 46,Krishna Trance,Kaala Bhairava,Soundtrack,2022.0
 47,Sandhanam Theme (Background Score),Anirudh Ravichander,Tamil,2022.0
@@ -737,16 +553,13 @@ rank,song,artist,genre,year
 60,Once Upon a Time,Anirudh Ravichander,Tamil,2022.0
 61,Photograph,Ed Sheeran,Pop,2022.0
 62,Shiv Tandav Stotram,Shankar Mahadevan,Devotional & Spiritual,2022.0
-63,Unstoppable,Sia,Pop,2022.0
 64,Desires,AP Dhillon & Gurinder Gill,Punjabi Pop,2022.0
-65,As It Was,Harry Styles,Pop,2022.0
 66,"Chogada (From ""Loveyatri"")","Darshan Raval, Asees Kaur & Lijo George-Dj Chetas",Bollywood,2022.0
 67,No Love,Shubh,Punjabi Pop,2022.0
 68,Mann Bharryaa 2.0,B. Praak,Bollywood,2022.0
 69,Chola Chola,"Sathya Prakash, V.M. Mahalingam & Nakul Abhyankar",Tamil,2022.0
 70,"Bande (From ""Vikram Vedha"")",Sivam & Manoj Muntashir,Bollywood,2022.0
 71,Devaralan Aattam,A.R. Rahman & Yogisekar,Tamil,2022.0
-72,I Ain't Worried,OneRepublic,Pop,2022.0
 73,Saath Ho Tera,"Amaal Mallik, Aastha Gill & Lisa Mishra",Indian Pop,2022.0
 74,Tu AakeDekhle,King,Pop,2022.0
 75,Ratchasa Maamaney,"Shreya Ghoshal, Palakad Sreeram & Mahesh Vinayakram",Tamil,2022.0
@@ -763,7 +576,6 @@ rank,song,artist,genre,year
 86,All Night (Live),AP Dhillon & Shinda Kahlon,Punjabi Pop,2022.0
 87,Toxic,AP Dhillon & Intense,R&B/Soul,2022.0
 88,Main Shiv Ka Shiv Mere,Hansraj Raghuwanshi,Singer/Songwriter,2022.0
-89,Summer High,AP Dhillon,Punjabi Pop,2022.0
 90,Paris Ka Trip,"Yo Yo Honey Singh, Millind Gaba & Asli Gold",Indian Pop,2022.0
 91,Calaboose,Sidhu Moose Wala,Indian Pop,2022.0
 92,All 4 Nothing (I'm So In Love),Lauv,Pop,2022.0
@@ -772,33 +584,18 @@ rank,song,artist,genre,year
 95,Signed to God,Sidhu Moose Wala,Indian Pop,2022.0
 96,İzmir Marşı,CVRTOON,World,2022.0
 97,Lie,BTS,K-Pop,2022.0
-98,Unholy,Sam Smith & Kim Petras,Pop,2022.0
 99,Har Har Shambhu,Sakshi,Devotional & Spiritual,2022.0
 100,"Singara Siriye (From ""Kantara"")","B Ajaneesh Loknath, Vijay Prakash, Ananya Bhat & Nagraj Panar Valtur",Soundtrack,2022.0
 1,All For You,Cian Ducrot & Ella Henderson,Pop,2022.0
 2,Street Lights,Korey Power,Pop,2022.0
-3,B.O.T.A. (Baddest Of Them All) [Edit],Eliza Rose & Interplanetary Criminal,Dance,2022.0
 4,Swan Upon Leda,Hozier,Alternative,2022.0
-5,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
-6,Kiss Me,Dermot Kennedy,Pop,2022.0
-7,2 Be Loved (Am I Ready),Lizzo,Pop,2022.0
-8,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
-9,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-10,Green Green Grass,George Ezra,Singer/Songwriter,2022.0
-11,Ferrari,James Hype & Miggy Dela Rosa,Dance,2022.0
 12,Somebody,Sam Ryder,Singer/Songwriter,2022.0
-13,Forget Me,Lewis Capaldi,Alternative,2022.0
-14,I Ain't Worried,OneRepublic,Pop,2022.0
-15,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-16,Late Night Talking,Harry Styles,Pop,2022.0
 17,PSYCHO,Anne-Marie x Aitch,Pop,2022.0
 18,Strange Powers,The Magnetic Fields,Alternative,2022.0
 19,You Have What It Takes,a-ha,Pop,2022.0
 20,"Brighton Beach (Live From The Troubadour, West Hollywood/2013)",Rod Stewart,Rock,2022.0
 21,"Hot Dog! Dance Break 2019 (From ""Mickey Mouse Mixed-Up Adventures"")",They Might Be Giants,Children's Music,2022.0
 22,Music's Door,Roy Taylor & Finbar Furey,Traditional Folk,2022.0
-23,L.I.E.C,MAMAMOO,K-Pop,2022.0
-24,ILLELLA,MAMAMOO,K-Pop,2022.0
 25,Would I Lie To You? (Album Edit),Charles & Eddie,Pop,2022.0
 26,On a Real Good Night,"Country's Finest, Modern Country Club & Country Hit Superstars",Contemporary Country,2022.0
 27,Little Things (Acoustic),Jada Facer & John Buckley,Pop,2022.0
@@ -815,38 +612,24 @@ rank,song,artist,genre,year
 38,Photograph (Acoustic),Sarah,Easy Listening,2022.0
 39,Canzon XXXIII per Otto Tromboni,London Brass & Philip Pickett,Classical,2022.0
 40,Italy: Canzone a 4,Concentus Musicus Wien & Nikolaus Harnoncourt,Classical,2022.0
-41,Impossible,James Arthur,Pop,2022.0
-42,Don't Stop Believin',Journey,Rock,2022.0
-43,Happy (Oktoberfest Mix),Pharrell Williams,Pop,2022.0
 44,Ho Hey,The Lumineers,Pop,2022.0
-45,Love the Way You Lie (feat. Rihanna),Eminem,Hip Hop/Rap,2022.0
-46,Blurred Lines (feat. T.I. & Pharrell),Robin Thicke,Pop,2022.0
-47,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
 48,Galway Girl (feat. Sharon Shannon),Mundy,Singer/Songwriter,2022.0
 49,We Are Young,Fun.,Alternative,2022.0
 50,Tiny Dancer,A Song for Lily-Mae,Vocal,2022.0
 51,Beneath Your Beautiful (feat. Emeli Sande),Labrinth,Pop,2022.0
-52,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,Hip-Hop,2022.0
 53,Horse Outside,The Rubberbandits,Hip Hop/Rap,2022.0
 54,Thinking Out Loud,Ed Sheeran,Pop,2022.0
-55,Gangnam Style,PSY,Pop,2022.0
 56,Roar,Katy Perry,Pop,2022.0
 57,Jar of Hearts,Christina Perri,Pop,2022.0
 58,Hall of Fame (feat. will.i.am),The Script,Pop,2022.0
-59,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,Pop,2022.0
-60,Timber (feat. Ke$ha),Pitbull,Pop,2022.0
-61,Just Give Me a Reason (feat. Nate Ruess),P!nk,Pop,2022.0
 62,Stay (feat. Mikky Ekko),Rihanna,Pop,2022.0
 63,Run,Leona Lewis,Pop,2022.0
 64,Hello,Adele,Pop,2022.0
 65,I Follow Rivers (The Magician Remix),Lykke Li,Alternative,2022.0
 66,Little Talks,Of Monsters and Men,Alternative,2022.0
-67,Locked Out of Heaven,Bruno Mars,Pop,2022.0
 68,Chasing Cars,Snow Patrol,Alternative,2022.0
-69,All of Me,John Legend,R&B/Soul,2022.0
 70,Bad Romance (Starsmith Remix),Lady Gaga,Pop,2022.0
 71,Do They Know It's Christmas? (2014),Band Aid 30,Pop,2022.0
-72,A Thousand Years,Christina Perri,Soundtrack,2022.0
 73,Kids,MGMT,Alternative,2022.0
 74,Moves Like Jagger (feat. Christina Aguilera) [Soul Seekerz Radio Edit],Maroon 5,Pop,2022.0
 75,Paradise,Coldplay,Alternative,2022.0
@@ -861,60 +644,38 @@ rank,song,artist,genre,year
 84,Wild Ones (feat. Sia),Flo Rida,Hip Hop/Rap,2022.0
 85,Dance With Me Tonight,Olly Murs,Pop,2022.0
 86,One Day Like This,Elbow,Alternative,2022.0
-87,Get Lucky (feat. Pharrell Williams) [Radio Edit],Daft Punk,Pop,2022.0
-88,Hot N Cold,Katy Perry,Pop,2022.0
 89,We Are Never Ever Getting Back Together,Taylor Swift,Country,2022.0
 90,High Hopes,Kodaline,Alternative,2022.0
 91,Somewhere Only We Know,Lily Allen,Pop,2022.0
 92,I Knew You Were Trouble,Taylor Swift,Country,2022.0
-1,THE LONELIEST,Måneskin,Rock,2022.0
 2,Bellissima,Annalisa,Pop,2022.0
-3,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 4,Ricordi,Pinguini Tattici Nucleari,Pop,2022.0
 5,SNAP (Italian),Rosa Linn & Alfa,Indie Pop,2022.0
 6,fluo,Sangiovanni,Pop,2022.0
-7,Celestial,Ed Sheeran,Pop,2022.0
-8,DON'T YOU WORRY,"Black Eyed Peas, Shakira & David Guetta",Pop,2022.0
 9,La Vita Splendida,Tiziano Ferro,Pop,2022.0
 10,Stella Di Mare,Cesare Cremonini & Lucio Dalla,Pop,2022.0
-11,Forget Me,Lewis Capaldi,Alternative,2022.0
 12,Attraverso Te (feat. La rappresentante di lista),Marco Mengoni,Pop,2022.0
-13,Calm Down,Rema,World,2022.0
-14,I Ain't Worried,OneRepublic,Pop,2022.0
 15,Caos,"Fabri Fibra, Lazza & Madame",Hip Hop/Rap,2022.0
 16,Extasi,Fred De Palma,Hip Hop/Rap,2022.0
 17,Nostalgia,BLANCO,Hip Hop/Rap,2022.0
 18,Ancora Una Volta,Marco Mengoni & Samuele Bersani,Pop,2022.0
-19,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
 20,Vieni nel mio cuore,Ultimo,Singer/Songwriter,2022.0
 21,Easy,Baby K,Pop,2022.0
-22,Unholy,Sam Smith & Kim Petras,Pop,2022.0
 23,LA DOLCE VITA,"Fedez, Tananai & Mara Sattei",Pop,2022.0
 24,Caramello,"Rocco Hunt, Elettra Lamborghini & Lola Índigo",Pop,2022.0
-25,All By Myself,"Alok, Sigala & Ellie Goulding",Dance,2022.0
-26,Another Love,Tom Odell,Singer/Songwriter,2022.0
-27,As It Was,Harry Styles,Pop,2022.0
 28,CORALINE,Måneskin,Rock,2022.0
 29,Ferrari (Remix),"James Hype, Miggy Dela Rosa & Lazza",Dance,2022.0
-30,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,Pop,2022.0
-31,2 Be Loved (Am I Ready),Lizzo,Pop,2022.0
 32,Tell Me Why (Meduza Remix),Supermode,Dance,2022.0
-33,SNAP,Rosa Linn,Indie Pop,2022.0
 34,Tutti I Miei Ricordi,Marco Mengoni,Pop,2022.0
 35,occhi grandi grandi,Francesca Michielin,Pop,2022.0
-36,Always Remember Us This Way,Lady Gaga,Soundtrack,2022.0
 37,Tropicana,Boomdabash & Annalisa,Pop,2022.0
 38,SUPERMODEL,Måneskin,Pop,2022.0
 39,Bolero (feat. MIKA),Baby K,Pop,2022.0
 40,Palla Al Centro,Elisa & Jovanotti,Pop,2022.0
-41,I'm Good (Blue) [Extended],David Guetta & Bebe Rexha,Dance,2022.0
 42,Chiedimi Come Sto (feat. Bresh),Marco Mengoni,Pop,2022.0
 43,FINIMONDO,M¥SS KETA,Pop,2022.0
 44,PARE (feat. Madame),Ghali,Hip Hop/Rap,2022.0
-45,Late Night Talking,Harry Styles,Pop,2022.0
-46,Stay With Me,"Calvin Harris, Justin Timberlake, Halsey & Pharrell Williams",Dance,2022.0
 47,Sono,Eros Ramazzotti & Alejandro Sanz,Pop,2022.0
-48,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
 49,Mi Fiderò (feat. Madame),Marco Mengoni,Pop,2022.0
 50,Luce,Marco Mengoni,Pop,2022.0
 51,Perfect,Ed Sheeran,Pop,2022.0
@@ -924,32 +685,20 @@ rank,song,artist,genre,year
 55,Mi sei scoppiato dentro il cuore,Mina,Pop,2022.0
 56,Party Rock Anthem (feat. Lauren Bennett & Goonrock),LMFAO,Pop,2022.0
 57,Another Love (Zwette Edit),Tom Odell,Singer/Songwriter,2022.0
-58,Unstoppable,Sia,Pop,2022.0
 59,It's Like That,Run-DMC & Jason Nevins,Hip Hop/Rap,2022.0
 60,Finché Non Mi Seppelliscono,BLANCO,Hip Hop/Rap,2022.0
-61,"Hold My Hand (Music From The Motion Picture ""Top Gun: Maverick"")",Lady Gaga,Pop,2022.0
 62,Hace Calor (feat. Omar Varela) [Remix],"Kaleb Di Masi, Sfera Ebbasta & Rvfv",Latin,2022.0
 63,Sharks,Imagine Dragons,Alternative,2022.0
 64,PANICO,Lazza & Takagi & Ketra,Hip Hop/Rap,2022.0
-65,Dance with Me,Kevin de Vries,Electronic,2022.0
-66,Tití Me Preguntó,Bad Bunny,Latin,2022.0
 67,!ly (feat. Coez),thasup,Hip Hop/Rap,2022.0
 68,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,Hip Hop/Rap,2022.0
-69,DESPECHÁ,ROSALÍA,Pop in Spanish,2022.0
 70,Chiamami,Coma_Cose,Alternative,2022.0
 71,We Own The Night,Sophie and the Giants,Pop,2022.0
-72,Afraid To Feel,LF SYSTEM,Dance,2022.0
-73,B.O.T.A. (Baddest Of Them All) [Edit],Eliza Rose & Interplanetary Criminal,Dance,2022.0
-74,La Vita Splendida,Tiziano Ferro,Pop,2022.0
 75,Pump It Louder,Tiësto & Black Eyed Peas,Dance,2022.0
 76,Una Canzone Triste,Marco Mengoni,Pop,2022.0
-77,ILLELLA,MAMAMOO,K-Pop,2022.0
 78,Human,Rag'n'Bone Man,Alternative,2022.0
-79,Shallow,Lady Gaga & Bradley Cooper,Soundtrack,2022.0
 80,Torna a casa,Måneskin,Rock,2022.0
 81,Come nelle favole,Vasco Rossi,Rock,2022.0
-82,Eye of the Tiger,Survivor,Soundtrack,2022.0
-83,Cold Heart (PNAU Remix),Elton John & Dua Lipa,Pop,2022.0
 84,Candy,Paolo Nutini,Pop,2022.0
 85,ZITTI E BUONI,Måneskin,Hard Rock,2022.0
 86,Piece Of Your Heart,Meduza & Goodboys,Dance,2022.0
@@ -964,25 +713,13 @@ rank,song,artist,genre,year
 95,Memories (feat. Kid Cudi),David Guetta & Kid Cudi,Dance,2022.0
 96,BABY GODDAMN,Tananai,Pop,2022.0
 97,HULA-HOOP,Carl Brave & Noemi,Indie Pop,2022.0
-98,Heat Waves,Glass Animals,Alternative,2022.0
-99,CUFF IT,Beyoncé,Pop,2022.0
 100,No Man No Cry,Jimmy Sax,Electronica,2022.0
-1,ILLELLA,MAMAMOO,K-Pop,2022.0
-2,No Se Va (En Vivo),Grupo Frontera,Regional Mexicano,2022.0
-3,Tití Me Preguntó,Bad Bunny,Latin,2022.0
 4,"No Me Importa (feat. Lucía Mendez, Laura Zapata, Sylvia Pasquel & Lorena Herrera)",Siempre Reinas,Pop in Spanish,2022.0
-5,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,Hip Hop/Rap,2022.0
 6,La Bachata,Manuel Turizo,Latin Urban,2022.0
-7,Calm Down,Rema & Selena Gomez,Pop,2022.0
-8,As It Was,Harry Styles,Pop,2022.0
-9,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
-10,DESPECHÁ,ROSALÍA,Pop in Spanish,2022.0
 11,Me Porto Bonito,Bad Bunny & Chencho Corleone,Latin,2022.0
 12,Tacones Rojos,Sebastián Yatra,Pop in Spanish,2022.0
 13,Ojos Marrones (Remix),Lasso & Sebastián Yatra,Pop in Spanish,2022.0
 14,Neverita,Bad Bunny,Latin,2022.0
-15,CUFF IT,Beyoncé,Pop,2022.0
-16,Unstoppable,Sia,Pop,2022.0
 17,Ojitos Lindos,Bad Bunny & Bomba Estéreo,Latin,2022.0
 18,Mmmamy (feat. Yari Mejía & Deseos Fab),La Más Draga,Latin,2022.0
 19,Calidad,Grupo Firme & Luis Mexía,Regional Mexicano,2022.0
@@ -990,19 +727,13 @@ rank,song,artist,genre,year
 21,VISION,Dreamcatcher,K-Pop,2022.0
 22,Yellow,Coldplay,Alternative,2022.0
 23,Sign of the Times,Harry Styles,Pop,2022.0
-24,Cold Heart (PNAU Remix),Elton John & Dua Lipa,Pop,2022.0
 25,Confieso,Kany García,Pop in Spanish,2022.0
 26,Yonaguni,Bad Bunny,Latin Urban,2022.0
 27,Blood Sweat & Tears,BTS,K-Pop,2022.0
-28,Running Up That Hill (A Deal with God),Kate Bush,Pop,2022.0
 29,Efecto,Bad Bunny,Latin,2022.0
-30,DON'T YOU WORRY,"Black Eyed Peas, Shakira & David Guetta",Pop,2022.0
 31,Siempre Pendientes,Peso Pluma & Luis R Conriquez,Regional Mexicano,2022.0
 32,Ojos Marrones,Lasso,Pop in Spanish,2022.0
 33,JGL,La Adictiva & Luis R Conriquez,Regional Mexicano,2022.0
-34,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-35,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
-36,Celestial,Ed Sheeran,Pop,2022.0
 37,El Rescate,Grupo Marca Registrada & Junior H,Regional Mexicano,2022.0
 38,Sick of U (feat. Oliver Tree),BoyWithUke,Alternative,2022.0
 39,No Es Que Te Extrañe,Christina Aguilera,Pop in Spanish,2022.0
@@ -1011,10 +742,8 @@ rank,song,artist,genre,year
 42,Por Clave El 13,Betillo Guerrero,Latin,2022.0
 43,Demons,Imagine Dragons,Alternative,2022.0
 44,Fuiste Tú (feat. Gaby Moreno),Ricardo Arjona,Pop in Spanish,2022.0
-45,Photograph,Ed Sheeran,Pop,2022.0
 46,In the End,LINKIN PARK,Hard Rock,2022.0
 47,Bohemian Rhapsody,Queen,Rock,2022.0
-48,Sweet Child O' Mine,Guns N' Roses,Hard Rock,2022.0
 49,"Another Brick In the Wall, Pt. 2",Pink Floyd,Rock,2022.0
 50,Every Breath You Take,The Police,Rock,2022.0
 51,Hasta Que Me Olvides,Luis Miguel,Latin,2022.0
@@ -1036,7 +765,6 @@ rank,song,artist,genre,year
 67,Índigo,Camilo & Evaluna Montaner,Pop,2022.0
 68,Te Felicito,Shakira & Rauw Alejandro,Pop in Spanish,2022.0
 69,Easy On Me,Adele,Pop,2022.0
-70,Pepas,Farruko,Latin Urban,2022.0
 71,Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,Pop,2022.0
 72,Ya Supérame (En Vivo),Grupo Firme,Latin,2022.0
 73,Sonne,Rammstein,Heavy Metal,2022.0
@@ -1048,13 +776,10 @@ rank,song,artist,genre,year
 79,XT4S1S,Danna Paola,Pop in Spanish,2022.0
 80,BIZCOCHITO,ROSALÍA,Pop in Spanish,2022.0
 81,Se Me Olvidó,Christian Nodal,Regional Mexicano,2022.0
-82,It's Like That,Run-DMC & Jason Nevins,Hip Hop/Rap,2022.0
 83,No Se Va,Morat,Pop,2022.0
-84,I Ain't Worried,OneRepublic,Pop,2022.0
 85,Como Tú y Yo,Chayanne,Pop in Spanish,2022.0
 86,¿A Dónde Vamos A Parar?,Marco Antonio Solís,Regional Mexicano,2022.0
 87,Moscow Mule,Bad Bunny,Latin,2022.0
-88,Late Night Talking,Harry Styles,Pop,2022.0
 89,Se Fue La Pantera (En Vivo),Grupo Firme & Grupo Recluta,Latin,2022.0
 90,Junio,Maluma,Latin Urban,2022.0
 91,Glimpse of Us,Joji,Pop,2022.0
@@ -1062,7 +787,6 @@ rank,song,artist,genre,year
 93,Vámonos a Marte,Kevin Kaarl,Folk,2022.0
 94,La Siguiente,Kany García & Christian Nodal,Pop in Spanish,2022.0
 95,El Belicon,Peso Pluma & Raul Vega,Regional Mexicano,2022.0
-96,Calm Down,Rema,World,2022.0
 97,Desesperados,Rauw Alejandro & Chencho Corleone,Latin Urban,2022.0
 98,El Viaje,Conchita,Pop,2022.0
 99,Una Noche en Medellín,Cris Mj,Latin,2022.0
@@ -1076,64 +800,43 @@ rank,song,artist,genre,year
 7,Schatje Wacht,Gino Graus,Pop,2022.0
 8,Gina,Robert Pater,Pop,2022.0
 9,Jij Bent De Zon (feat. JOP),Havenzangers,Pop,2022.0
-10,How Do I Say Goodbye,Dean Lewis,Singer/Songwriter,2022.0
-11,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 12,Was! (feat. Kinoh & TAVV),"Sleazy Stereo, Afro Bros & Poke",Hip Hop/Rap,2022.0
 13,Ga Dan (Remix),Wesley Klein,Pop,2022.0
 14,Zigeunerjongen,Jeroen Van Zelst,Pop,2022.0
 15,Multicolor,Son Mieux,Pop,2022.0
-16,Drugs From Amsterdam,Mau P,Dance,2022.0
 17,Ik Kan Je Niet Vergeten,Pascal Redeker,Pop,2022.0
 18,Adrenaline,"Kris Kross Amsterdam, Ronnie Flex & Zoë Tauran",Pop,2022.0
 19,Laat Ons Samen Proosten,Marco de Hollander,Pop,2022.0
 20,Het Leven Is Een Kermis,Marco Kanters,Pop,2022.0
-21,Calm Down,Rema,World,2022.0
-22,Noodgeval,Goldband,Pop,2022.0
 23,Gi-Ga-Groen,Kinderen Voor Kinderen,Pop,2022.0
 24,Peru,Fireboy DML & Ed Sheeran,Pop,2022.0
 25,Je Denkt Alleen Maar Aan Jezelf,Jeffrey Heesen & Brace,Pop,2022.0
 26,Perfume,Sophia,Singer/Songwriter,2022.0
-27,Pump It Louder,Tiësto & Black Eyed Peas,Dance,2022.0
-28,Blind Op Zoek (Trapagas),Jinho 9,Hip Hop/Rap,2022.0
 29,Eén Groot Feest,KidsPop,Children's Music,2022.0
 30,Ons Moeder Zeej Nog,Jan Biggel,World,2022.0
-31,As It Was,Harry Styles,Pop,2022.0
 32,Automatisch,FLEMMING,Singer/Songwriter,2022.0
-33,Bad Memories (feat. Elley Duhé & FAST BOY),Meduza & James Carter,Dance,2022.0
 34,Love Myself,RONDÉ,Pop,2022.0
 35,Klop Klop,Antoon,Pop,2022.0
-36,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-37,Celestial,Ed Sheeran,Pop,2022.0
-38,B.O.T.A. (Baddest Of Them All) [Edit],Eliza Rose & Interplanetary Criminal,Dance,2022.0
 39,Les feuilles mortes,Yves Montand,French Pop,2022.0
 40,Bright Eyes,RONDÉ,Pop,2022.0
 41,Alle Kamers,Monique Smit,Pop,2022.0
-42,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
 43,Bitter Sweet Symphony,The Verve,Pop,2022.0
-44,Cold Heart (PNAU Remix),Elton John & Dua Lipa,Pop,2022.0
 45,Blinding Lights,The Weeknd,R&B/Soul,2022.0
 46,Do It To It (feat. Cherish),Acraze,Dance,2022.0
 47,Amsterdam,FLEMMING,Pop,2022.0
 48,Viva Cerveza,Ferry De Lits,Pop,2022.0
 49,Door De Wind,Miss Montreal,Pop,2022.0
 50,New Tattoo,Brian Dunne,Pop,2022.0
-51,SNAP,Rosa Linn,Indie Pop,2022.0
 52,Leave Before You Love Me,Marshmello & Jonas Brothers,Pop,2022.0
 53,"UHUH (feat. Ronnie Flex, Yssi SB & Lil Kleine)",$hirak,Hip Hop/Rap,2022.0
 54,"Girl, You'll Be a Woman Soon",Urge Overkill,Alternative,2022.0
 55,You Are the Reason (Duet Version),Calum Scott & Leona Lewis,Pop,2022.0
-56,CUFF IT,Beyoncé,Pop,2022.0
 57,90s Kid,DI-RECT,Pop/Rock,2022.0
 58,Zonder Jou,Danny Froger,Pop,2022.0
-59,Forget Me,Lewis Capaldi,Alternative,2022.0
-60,KU LO SA - A COLORS SHOW,Oxlade,Hip Hop/Rap,2022.0
-61,Grijs,Beste Zangers & Jaap Reesema,Pop,2022.0
-62,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,Pop,2022.0
 63,Best Damn Day,The Jordan,Pop,2022.0
 64,Turk Uit De Kroeg,Ammar,Pop,2022.0
 65,Yeah the Girls (feat. MERYLL),FISHER,Dance,2022.0
 66,Spreekuur,Waylon,Pop,2022.0
-67,Eagle (feat. KB),Transformation Worship,Hip Hop/Rap,2022.0
 68,Calaverada,Gipsy Kings,Pop in Spanish,2022.0
 69,1 - 2 - 3 - 4 (Sumpin' New),Coolio,Hip Hop/Rap,2022.0
 70,El Verde de Tus Ojos,Kiko Rodriguez,Latin,2022.0
@@ -1168,30 +871,22 @@ rank,song,artist,genre,year
 99,Holding On (Extended Mix),Axis & Bertie Scott,Trance,2022.0
 100,Don’t Give Up On Me,Crooked Colours,Electronic,2022.0
 1,BlimE! - Den Ene,Selma Ibrahim,Children's Music,2022.0
-2,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 3,Kjøpe Hele Sverige,Soppgirobygget,Dance,2022.0
-4,In The Stars,Benson Boone,Pop,2022.0
 5,2 Die 4,Tove Lo,Pop,2022.0
-6,Miss You,Southstar,Dance,2022.0
 7,Dance Forever,Iseo & Dodosound,Pop,2022.0
 8,Sediment,Bobo Stenson Trio,Pop,2022.0
 9,Les Métamorphoses Du Vide,Chapelier Fou,Alternative,2022.0
 10,Somnium,Congi,Electronic,2022.0
 11,I Am a Robot,Pupajim,Electronic,2022.0
-12,Layla,Martin Miller & Lari Basilio,Pop/Rock,2022.0
 13,Perfect Love,Tom Westy & Mila Falls,Dance,2022.0
 14,Suha,Sigrun Loe Sparboe,Pop,2022.0
 15,Tougher Than the Rest,Bruce Springsteen,Rock,2022.0
 16,Jeg glemmer deg aldri (fra Rådebank),Emma Steinbakken,Pop,2022.0
 17,Dancing with a Stranger,Sam Smith & Normani,Pop,2022.0
-18,Unholy,Sam Smith & Kim Petras,Pop,2022.0
 19,It Was Love,Maria Mena,Pop,2022.0
-20,How Do I Say Goodbye,Dean Lewis,Singer/Songwriter,2022.0
 21,menn som meg,Ramon,Pop,2022.0
-22,SNAP,Rosa Linn,Indie Pop,2022.0
 23,The Most,Miley Cyrus,Pop,2022.0
 24,Jeg Går I Tusen Tanker,Rita Engebretsen,Alternative Folk,2022.0
-25,VISION,Dreamcatcher,K-Pop,2022.0
 26,Call of the Void,Devin Townsend,Rock,2022.0
 27,Dashstar* (VIP),Knock2,Dance,2022.0
 28,Don't Kill My Vibe,Franz Schröder,Easy Listening,2022.0
@@ -1205,89 +900,55 @@ rank,song,artist,genre,year
 36,Cockeye's Song - Once Upon a Time In America,The Big Screen Orchestra,Soundtrack,2022.0
 37,Glow,Madcon,Pop,2022.0
 38,Ambitions,Donkeyboy,Pop,2022.0
-39,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] [feat. Freshlyground],Shakira,Pop,2022.0
 40,Some Die Young,Laleh,Pop,2022.0
-41,Someone Like You,Adele,Pop,2022.0
-42,Euphoria (Single Version),Loreen,Dance,2022.0
-43,Set Fire to the Rain,Adele,Pop,2022.0
-44,Gangnam Style,PSY,Pop,2022.0
-45,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
 46,The Fox (What Does the Fox Say?),Ylvis,Pop,2022.0
-47,Rolling In the Deep,Adele,Pop,2022.0
 48,Home for Christmas,Maria Mena,Holiday,2022.0
 49,Æ Vil Bare Dans,Sirkus Eliassen & Ben Kinx,Pop,2022.0
-50,We Are Young (feat. Janelle Monáe),Fun.,Alternative,2022.0
 51,Ølbriller (feat. Byz),Erik og Kriss,Hip Hop/Rap,2022.0
 52,Godmorgen Norge,Vinni,Pop,2022.0
 53,Ring Meg (Cosmic Dawn Remix),Gabrielle,Pop,2022.0
-54,Paradise,Coldplay,Alternative,2022.0
-55,Love the Way You Lie (feat. Rihanna),Eminem,Hip Hop/Rap,2022.0
 56,Lonesome Traveller,Paperboys,Hip Hop/Rap,2022.0
 57,Møkkamann,Plumbo,Rock,2022.0
-58,Skyfall,Adele,Pop,2022.0
 59,Freaky Like Me (feat. Ameerah),Madcon,Pop,2022.0
 60,Snakke Litt,Admiral P,Modern Dancehall,2022.0
 61,Sometimes,Donkeyboy,Pop,2022.0
 62,Sommerfuggel I Vinterland,Vinni,Pop,2022.0
 63,Am I Wrong,Nico & Vinz,Pop,2022.0
 64,Den Finast Eg Veit,Hellbillies,Rock,2022.0
-65,Hall of Fame (feat. will.i.am),The Script,Pop,2022.0
-66,Stereo Love (Radio Edit),Edward Maya & Vika Jigulina,Dance,2022.0
 67,Flytta På Dej,Alina Devecerski,Pop,2022.0
 68,The Story,Brandi Carlile,Rock,2022.0
-69,Stay (feat. Mikky Ekko),Rihanna,Pop,2022.0
-70,Hey Brother,Avicii,House,2022.0
 71,Etter Regnet (featuring Martin Diesen),Erik og Kriss,Hip Hop/Rap,2022.0
 72,Satellite (Bonus),Lena,Pop,2022.0
 73,When Love Takes Over (feat. Kelly Rowland),David Guetta,House,2022.0
 74,Yes Man,Bjørn Johan Muri,Pop,2022.0
 75,Halo,Beyoncé,Pop,2022.0
-76,Get Lucky (feat. Pharrell Williams) [Radio Edit],Daft Punk,Pop,2022.0
 77,Firestone (feat. Conrad Sewell),Kygo,Dance,2022.0
 78,Try,P!nk,Pop,2022.0
-79,I See Fire,Ed Sheeran,Soundtrack,2022.0
-80,Roar,Katy Perry,Pop,2022.0
-81,Hello,Adele,Pop,2022.0
 82,Fathers Eyes,Ask Embla,Pop,2022.0
 83,Stole the Show (feat. Parson James),Kygo,Dance,2022.0
 84,Prisoner of the Road,Sivert Høyem,Rock,2022.0
 85,I'm Yours,Jason Mraz,Pop,2022.0
 86,Starships,Nicki Minaj,Hip Hop/Rap,2022.0
 87,City Boy,Donkeyboy,Pop,2022.0
-88,Diamonds,Rihanna,Pop,2022.0
 89,Scared Of Heights,Espen Lind,Pop,2022.0
 90,Lost,Erlend Bratland,Pop,2022.0
-91,Let Her Go,Passenger,Pop,2022.0
 92,Måndagsbarn,Veronica Maggio,Pop,2022.0
 93,Chandelier,Sia,Pop,2022.0
-94,Radioactive,Imagine Dragons,Alternative,2022.0
 95,She Wolf (Falling to Pieces) [feat. Sia],David Guetta,Dance,2022.0
-1,ILLELLA,MAMAMOO,K-Pop,2022.0
-2,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
-3,L.I.E.C,MAMAMOO,K-Pop,2022.0
-4,Say My Name,ATEEZ,K-Pop,2022.0
 5,Angel Baby,Troye Sivan,Pop,2022.0
 6,Dati-Dati,Sarah Geronimo,Pop,2022.0
 7,Intro (Back to Basics),Christina Aguilera,Pop,2022.0
 8,Permission to Dance,BTS,K-Pop,2022.0
 9,Style,Taylor Swift,Pop,2022.0
 10,Boy With Luv (feat. Halsey),BTS,K-Pop,2022.0
-11,Easy On Me,Adele,Pop,2022.0
-12,Sunroof,Nicky Youre & Dazy,Pop,2022.0
 13,Shut Down,BLACKPINK,K-Pop,2022.0
-14,Left and Right,Charlie Puth & Jung Kook,Pop,2022.0
 15,Duyan,Sarah Geronimo,Pop,2022.0
-16,I Ain't Worried,OneRepublic,Pop,2022.0
-17,Super Freaky Girl,Nicki Minaj,Hip Hop/Rap,2022.0
 18,MOON (feat. Flow G),Nik Makino,Hip Hop/Rap,2022.0
-19,Hello,CHEN,K-Pop,2022.0
 20,Hype Boy,NewJeans,K-Pop,2022.0
 21,I Really Want to Stay At Your House,Rosa Walton & Hallie Coggins,Soundtrack,2022.0
-22,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 23,"One late night in 1994 (from ""You Hee yul's Sketchbook : 74th Voice 'Sketchbook X Jong Ho(ATEEZ)', Vol.113"")",종호,K-Pop,2022.0
 24,Maar Sutteya,Gajendra Verma & Flipsyde,Indian Pop,2022.0
 25,Dj Amazing (Rex Orange County),AL Tanipu,Breakbeat,2022.0
-26,"Chola Chola (From ""Ponniyin Selvan Part -1"")","A.R. Rahman, Sathya Prakash, V.M. Mahalingam, Nakul Abhyankar & Ilango Krishnan",Tamil,2022.0
 27,Tujha Number De Na Mala,Harshavardhan Wavre & Megha Musale,Regional Indian,2022.0
 28,"Lovable (From ""Timepass 3"")","Amitraj, Aarya Ambekar & Harshavardhan Wavre",Soundtrack,2022.0
 29,Christmas Coupon,Meghan Trainor,Holiday,2022.0
@@ -1299,85 +960,54 @@ rank,song,artist,genre,year
 35,Hmmm,Hott Headzz,Rap,2022.0
 36,Dynamite (Slow Jam Remix),BTS,K-Pop,2022.0
 37,Butter (Sweeter Remix),BTS,K-Pop,2022.0
-38,All of Me,John Legend,R&B/Soul,2022.0
-39,Thinking Out Loud,Ed Sheeran,Pop,2022.0
-40,Just Give Me a Reason (feat. Nate Ruess),P!nk,Pop,2022.0
 41,Closer (feat. Halsey),The Chainsmokers,Dance,2022.0
 42,See You Again (feat. Charlie Puth),Wiz Khalifa,Hip Hop/Rap,2022.0
 43,Treasure,Bruno Mars,Pop,2022.0
-44,Love Me Like You Do,Ellie Goulding,Soundtrack,2022.0
 45,Blank Space,Taylor Swift,Pop,2022.0
 46,Versace On The Floor,Bruno Mars,Pop,2022.0
 47,My Universe,Coldplay X BTS,Pop,2022.0
-48,Gangnam Style,PSY,Pop,2022.0
-49,Perfect,Ed Sheeran,Pop,2022.0
 50,Let It Go,Idina Menzel,Soundtrack,2022.0
 51,Shake It Off,Taylor Swift,Pop,2022.0
-52,Girl On Fire (feat. Nicki Minaj) [Inferno Version],Alicia Keys,R&B/Soul,2022.0
 53,Clarity (feat. Foxes),Zedd,Dance,2022.0
 54,Tadhana,Up Dharma Down,Alternative,2022.0
 55,When I Was Your Man,Bruno Mars,Pop,2022.0
 56,One Call Away,Charlie Puth,Pop,2022.0
-57,A Thousand Years,Christina Perri,Pop,2022.0
-58,Shape of You,Ed Sheeran,Pop,2022.0
-59,A Sky Full of Stars,Coldplay,Alternative,2022.0
 60,Payphone (feat. Wiz Khalifa),Maroon 5,Pop,2022.0
 61,The Man Who Can't Be Moved,The Script,Pop,2022.0
-62,Hello,Adele,Pop,2022.0
 63,Uptown Funk (feat. Bruno Mars),Mark Ronson,Pop,2022.0
 64,Titanium (feat. Sia),David Guetta,Dance,2022.0
-65,A Thousand Years,Christina Perri,Soundtrack,2022.0
 66,All About That Bass,Meghan Trainor,Pop,2022.0
 67,Break Free (feat. Zedd),Ariana Grande,Pop,2022.0
 68,Flashlight,Jessie J,Pop,2022.0
 69,Roses (feat. ROZES),The Chainsmokers,Dance,2022.0
-70,What Makes You Beautiful,One Direction,Pop,2022.0
-71,Just Give Me a Reason (feat. Nate Ruess),P!nk,Pop,2022.0
 72,I Won't Give Up,Jason Mraz,Pop,2022.0
 73,Gentleman,PSY,Pop,2022.0
 74,Love On Top,Beyoncé,Pop,2022.0
 75,Rude,MAGIC!,Pop,2022.0
 76,Bang Bang,"Jessie J, Ariana Grande & Nicki Minaj",Pop,2022.0
-77,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
 78,"A Thousand Years, Pt. 2 (feat. Steve Kazee)",Christina Perri,Soundtrack,2022.0
 79,Something Just Like This,The Chainsmokers & Coldplay,Dance,2022.0
-80,Diamonds,Rihanna,Pop,2022.0
 81,Life Goes On,BTS,K-Pop,2022.0
 82,All I Ask,Adele,Pop,2022.0
 83,Secret Love Song (feat. Jason Derulo),Little Mix,Pop,2022.0
 84,Say Something,A Great Big World & Christina Aguilera,Pop,2022.0
 85,"CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's ""Trolls"")",Justin Timberlake,Pop,2022.0
 86,Twerk It Like Miley (feat. Christopher),Brandon Beal,R&B/Soul,2022.0
-87,Blurred Lines (feat. T.I. & Pharrell),Robin Thicke,Pop,2022.0
-88,The Scientist,Coldplay,Alternative,2022.0
 89,Dance with My Father,Luther Vandross,R&B/Soul,2022.0
-90,It Will Rain,Bruno Mars,Pop,2022.0
 91,Daylight,Maroon 5,Pop,2022.0
 92,Lost Stars,Adam Levine,Pop,2022.0
-1,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 2,Still (I Got Summer On My Mind) [FORTELLA Remix],J.J.,Dance,2022.0
-3,ILLELLA,MAMAMOO,K-Pop,2022.0
 4,To co masz Ty!,Dawid Podsiadło,Pop,2022.0
-5,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-6,Ferrari,James Hype & Miggy Dela Rosa,Dance,2022.0
-7,Say My Name,ATEEZ,K-Pop,2022.0
 8,Czekam Na Znak,Ignacy,Pop,2022.0
-9,Pepas,Farruko,Latin Urban,2022.0
-10,As It Was,Harry Styles,Pop,2022.0
 11,"O nich, o Tobie",Sylwia Grzeszczak,Pop,2022.0
-12,Heavy Metal Love,twocolors,Dance,2022.0
-13,Belly Dancer,Imanbek & BYOR,Dance,2022.0
 14,Do Tanca,Malik Montana & Żabson,Hip Hop/Rap,2022.0
 15,Klej,Reto & Wroobel,Hip Hop/Rap,2022.0
-16,CUFF IT,Beyoncé,Pop,2022.0
 17,Boso (Kayax XX Rework),Nosowska,Alternative,2022.0
 18,Cisza,TPS,Hip Hop/Rap,2022.0
 19,Worst Kind of Hurt (feat. Wrabel) [Film Version],Laura Marano,Pop,2022.0
 20,Novello - The Land of Might-have-been,Christopher Northam & Jeremy Northam,Soundtrack,2022.0
 21,I Wanna Dance with Somebody (Who Loves Me),"Rebel Wilson, Adam DeVine & Priyanka Chopra",Soundtrack,2022.0
-22,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
 23,"The Justice Society Theme (from ""Black Adam"")",Lorne Balfe,Soundtrack,2022.0
-24,Human,Konstanty Litwinow Jr,Alternative,2022.0
 25,Annie (Extended Mix),Majestic,Dance,2022.0
 26,Free (Extended Mix),Kideko,Dance,2022.0
 27,The Music Began to Play (Extended Mix),Mark Knight & Armand Van Helden,Dance,2022.0
@@ -1402,94 +1032,54 @@ rank,song,artist,genre,year
 46,Be Still,Bethel Music & Steffany Gretzinger,Christian & Gospel,2022.0
 47,What Will Go,Kyau & Albert,Trance,2022.0
 48,Les limites,Julien Doré,French Pop,2022.0
-49,Happy (Oktoberfest Mix),Pharrell Williams,Pop,2022.0
-50,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
-51,I See Fire,Ed Sheeran,Soundtrack,2022.0
-52,Hello,Adele,Pop,2022.0
 53,Bałkanica,Piersi,Rock,2022.0
-54,I Follow Rivers (The Magician Remix),Lykke Li,Alternative,2022.0
-55,Get Lucky (feat. Pharrell Williams & Nile Rodgers),Daft Punk,Pop,2022.0
-56,Shape of You,Ed Sheeran,Pop,2022.0
-57,Wake Me Up,Avicii,House,2022.0
-58,Despacito (Mandarin Version) [feat. JJ Lin],Luis Fonsi,Pop in Spanish,2022.0
-59,Ai Se Eu Te Pego (Ao Vivo),Michel Teló,Sertanejo,2022.0
-60,Shallow,Lady Gaga & Bradley Cooper,Soundtrack,2022.0
-61,Ocean Drive (Extended Mix),Duke Dumont,Electronic,2022.0
-62,Dernière danse,Indila,French Pop,2022.0
 63,Ona Tańczy dla Mnie (Radio Edit),Weekend,Dance,2022.0
 64,My Słowianie,Donatan & Cleo,Hip Hop/Rap,2022.0
-65,Gangnam Style,PSY,Pop,2022.0
 66,Prayer In C (Robin Schulz Radio Edit),Lilly Wood & The Prick & Robin Schulz,Dance,2022.0
 67,"Początek (feat. Dawid Podsiadło, Kortez & Krzysztof Zalewski)",Męskie Granie Orkiestra 2018,Pop,2022.0
-68,Love Me Like You Do,Ellie Goulding,Soundtrack,2022.0
-69,"CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's ""Trolls"")",Justin Timberlake,Pop,2022.0
-70,Someone Like You,Adele,Pop,2022.0
-71,Stay (feat. Mikky Ekko),Rihanna,Pop,2022.0
 72,Ain't Nobody (Loves Me Better) [feat. Jasmine Thompson],Felix Jaehn,Dance,2022.0
 73,This Girl,Kungs & Cookin' On 3 Burners,Dance,2022.0
-74,Rolling In the Deep,Adele,Pop,2022.0
 75,Nothing Else Matters,Metallica,Heavy Metal,2022.0
 76,Tuesday (feat. Danelle Sandoval),Burak Yeter,Dance,2022.0
-77,Perfect,Ed Sheeran,Pop,2022.0
-78,Impossible,James Arthur,Pop,2022.0
 79,Close That Door,Snakedoctors,Rock,2022.0
 80,Sex On Fire,Kings of Leon,Alternative,2022.0
-81,Diamonds,Rihanna,Pop,2022.0
 82,Changes (FAUL & WAD AD vs. PNAU) [Pretty Pink Remix],Faul & Wad & PNAU,Dance,2022.0
 83,Stolen Dance,Milky Chance,Indie Pop,2022.0
-84,Pumped Up Kicks,Foster the People,Alternative,2022.0
 85,Faded,Alan Walker,Dance,2022.0
 86,A Song,Snakedoctors,Rock,2022.0
 87,Weź Nie Pytaj,Paweł Domagała,Pop,2022.0
 88,Moves Like Jagger (feat. Christina Aguilera) [Michael Carrera Darkroom Remix],Maroon 5,Pop,2022.0
-89,Set Fire to the Rain,Adele,Pop,2022.0
-90,We Are Young (feat. Janelle Monáe),Fun.,Alternative,2022.0
 91,FourFiveSeconds,Rihanna and Kanye West and Paul McCartney,Pop,2022.0
 92,"I Ciebie też, bardzo (feat. Daria Zawiałow, Dawid Podsiadło & Vito Bambino)",Męskie Granie Orkiestra 2021,Pop,2022.0
 93,Trójkąty i Kwadraty,Dawid Podsiadło,Pop,2022.0
-94,Just Give Me a Reason (feat. Nate Ruess),P!nk,Pop,2022.0
-95,Chandelier,Sia,Pop,2022.0
-96,Love Me Again (Gemini Remix),John Newman,Pop,2022.0
 97,Don't Be so Shy (Filatov & Karas Remix),Imany,Pop,2022.0
 1,SETE (feat. Young Stunna & Blxckie),K.O,Hip Hop/Rap,2022.0
 2,For My Hand (feat. Ed Sheeran),Burna Boy,World,2022.0
 3,Lyfie,Bernice West,Afrikaans,2022.0
 4,Last Last,Burna Boy,World,2022.0
-5,CUFF IT,Beyoncé,Pop,2022.0
 6,Seasons,Lloyiso,Pop,2022.0
-7,Calm Down,Rema & Selena Gomez,Pop,2022.0
 8,All In You (feat. Kemy Chienda),Senior Oat,Dance,2022.0
 9,Hamba Wena,Deep London & Boohle,Amapiano,2022.0
-10,I Ain't Worried,OneRepublic,Pop,2022.0
 11,Ithuba (feat. Siya Ntuli),Lwah Ndlunkulu,Afro-Pop,2022.0
 12,Hallelujah Nkateko (Lihle's Version),Joyous Celebration,Christian & Gospel,2022.0
 13,Crazy Vibez,Luxury SA,Dance,2022.0
-14,Hold My Hand,Lady Gaga,Pop,2022.0
-15,As It Was,Harry Styles,Pop,2022.0
 16,Sengizwile (feat. Aymos & Young Stunna),Mas Musiq,Amapiano,2022.0
 17,Goodness of God (Live),CeCe Winans,Christian & Gospel,2022.0
 18,Lemons (Lemonade),AKA & Nasty C,Hip Hop/Rap,2022.0
-19,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-20,Unholy,Sam Smith & Kim Petras,Pop,2022.0
 21,It's Plenty,Burna Boy,World,2022.0
 22,U Kondelela (feat. Makhadzi),Vee Mampeezy,Afro-Pop,2022.0
-23,Timber (feat. Ke$ha),Pitbull,Pop,2022.0
-24,A Sky Full of Stars,Coldplay,Alternative,2022.0
 25,You're the One,Elaine,R&B/Soul,2022.0
 26,I Surrender (Live),Hillsong Worship,Christian & Gospel,2022.0
 27,Where Are You Now,Lost Frequencies & Calum Scott,Dance,2022.0
 28,All for You,Glenn Jones,R&B/Soul,2022.0
 29,Sofa Silahlane (feat. Nkosazana Daughter),"Wanitwa Mos, Master KG & Lowsheen",Dance,2022.0
-30,Goodness of God (Live),Bethel Music & Jenn Johnson,Christian & Gospel,2022.0
 31,Ndenzel' Uncedo Hymn 377 (Live),Joyous Celebration,Gospel,2022.0
 32,Love Is Wicked,Brick & Lace,Pop,2022.0
 33,The Motto,Tiësto & Ava Max,Dance,2022.0
 34,"Uzozisola (feat. Aymos, Kabza De Small & DJ Maphorisa)",Mas Musiq,Amapiano,2022.0
 35,Rise,Calum Scott,Pop,2022.0
 36,The Only Reason,JP Cooper,Singer/Songwriter,2022.0
-37,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 38,Go Around,Bongi Dube,Dance,2022.0
-39,Under the Influence,Chris Brown,R&B/Soul,2022.0
 40,Don’t Wake Me Up,Jonas Blue & Why Don't We,Dance,2022.0
 41,Rowwe Bliksem,Riaan Benadé & Jay,Afrikaans,2022.0
 42,Nkantin (feat. Bailey & Emjaykeyz),MacG & Sir Trill,Amapiano,2022.0
@@ -1503,15 +1093,12 @@ rank,song,artist,genre,year
 50,Ngilinde (feat. Mango SA),YANII,Dance,2022.0
 51,I Speak Jesus (feat. Steven Musso),Charity Gayle,Christian & Gospel,2022.0
 52,Kuwe (feat. Master KG),"Wanitwa Mos, Sir Trill & Nkosazana Daughter",Amapiano,2022.0
-53,Bam Bam (feat. Ed Sheeran),Camila Cabello,Pop,2022.0
 54,Confidence,Sanctus Real,Christian & Gospel,2022.0
 55,Ase Moruti (feat. Mack Eaze),King Monada,Dance,2022.0
 56,Salary Salary (feat. Shaun MusiQ & F Teearse),"Robot Boii, Mellow & Sleazy & Soul Revolver",Amapiano,2022.0
 57,10K (feat. Sjava),Mafikizolo,Afro-Pop,2022.0
 58,Fight to Love (feat. Maleh) [Radio Edit],Shimza,World,2022.0
 59,Oh Hallelujah (Live) [feat. Ayanda Ntanzi],Spirit of Praise,Christian & Gospel,2022.0
-60,2 Be Loved (Am I Ready),Lizzo,Pop,2022.0
-61,Chill Like That,Sunday Scaries & PiCKUPLiNES,Dance,2022.0
 62,Insomnia,Brendan Peyper,Afrikaans,2022.0
 63,I Believe (Live),"Bethel Music, Jonathan David Helser & Melissa Helser",Christian & Gospel,2022.0
 64,Skipskop,Arno Jordaan,Afrikaans,2022.0
@@ -1524,7 +1111,6 @@ rank,song,artist,genre,year
 71,Lament,Robohands,Jazz,2022.0
 72,Toulouse (feat. Miguel Atwood-Ferguson),Kamaal Williams,Jazz,2022.0
 73,Ancient Future,Nicholas,House,2022.0
-74,ILLELLA,MAMAMOO,K-Pop,2022.0
 75,Atlas,Markus Schulz & Copini,Dance,2022.0
 76,I Really Want To Stay At Your House (Acoustic),Lunity,Pop,2022.0
 77,Last Night When We Were Young,Eves Karydas,Pop,2022.0
@@ -1551,49 +1137,21 @@ rank,song,artist,genre,year
 98,Amica,Beatamines,House,2022.0
 99,Bo Meno Masweu,King Payo,World,2022.0
 100,Wena Wedwa,Alah Yen,World,2022.0
-1,DESPECHÁ,ROSALÍA,Pop in Spanish,2022.0
-2,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,Hip Hop/Rap,2022.0
 3,mariposas,Sangiovanni & Aitana,Hip Hop/Rap,2022.0
-4,La Bachata,Manuel Turizo,Latin Urban,2022.0
 5,LAS 12,Ana Mena & Belinda,Pop,2022.0
-6,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
-7,PROVENZA,KAROL G,Latin Urban,2022.0
 8,Quiero Decirte,Abraham Mateo & Ana Mena,Pop,2022.0
-9,DON'T YOU WORRY,"Black Eyed Peas, Shakira & David Guetta",Pop,2022.0
-10,THE LONELIEST,Måneskin,Rock,2022.0
-11,ILLELLA,MAMAMOO,K-Pop,2022.0
-12,As It Was,Harry Styles,Pop,2022.0
-13,Te Felicito,Shakira & Rauw Alejandro,Pop in Spanish,2022.0
-14,Unstoppable,Sia,Pop,2022.0
 15,Hay Que Vivir El Momento,Manuel Carrasco,Pop in Spanish,2022.0
-16,Canciones de Amor a Ti,Rigoberta Bandini,Pop,2022.0
 17,Pico y Pala,Munic HB,Alternative Rap,2022.0
-18,Say My Name,ATEEZ,K-Pop,2022.0
 19,solo x ti,Pol Granch,Pop,2022.0
-20,"1,2,3 Eoi!",MAMAMOO,K-Pop,2022.0
-21,A Sky Full of Stars,Coldplay,Alternative,2022.0
-22,Tacones Rojos,Sebastián Yatra,Pop in Spanish,2022.0
 23,The Greatest,Sia,Pop,2022.0
-24,Bam Bam (feat. Ed Sheeran),Camila Cabello,Pop,2022.0
 25,Si Ella Supiera,India Martínez & Melendi,Pop in Spanish,2022.0
-26,CUFF IT,Beyoncé,Pop,2022.0
-27,I Ain't Worried,OneRepublic,Pop,2022.0
-28,Where Are You Now,Lost Frequencies & Calum Scott,Dance,2022.0
 29,Losing My Religion (feat. Polina Vita),"Ian Storm, John Laurant & Carl Clarks",Dance,2022.0
 30,Besos Moja2,Wisin & Yandel & ROSALÍA,Latin Urban,2022.0
-31,SNAP,Rosa Linn,Indie Pop,2022.0
-32,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-33,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-34,Unholy,Sam Smith & Kim Petras,Pop,2022.0
 35,PUNTO 40,Rauw Alejandro & Baby Rasta,Latin Urban,2022.0
 36,La Gent Que Estimo,OQUES GRASSES & Rita Payés,Pop,2022.0
-37,Calm Down,Rema,World,2022.0
-38,Celestial,Ed Sheeran,Pop,2022.0
 39,La Emperatriz,Rigoberta Bandini,Pop,2022.0
-40,Calm Down,Rema & Selena Gomez,Pop,2022.0
 41,Por Si Te Vas,María Peláe,Pop,2022.0
 42,Swimming Pools (Drank) [Black Hippy Remix],Kendrick Lamar,Hip Hop/Rap,2022.0
-43,Efecto,Bad Bunny,Latin,2022.0
 44,Espinita Clavá,Lérica & Abraham Mateo,Latin Urban,2022.0
 45,"Protector of the Realm (from ""House of the Dragon"")",Ramin Djawadi,Soundtrack,2022.0
 46,Tambourine,Eve,Hip Hop/Rap,2022.0
@@ -1602,8 +1160,6 @@ rank,song,artist,genre,year
 49,Six,Chimaira,Heavy Metal,2022.0
 50,Let Me Know (feat. Jeremih),The Game,Hip Hop/Rap,2022.0
 51,Me Dieron la Clave,Vieja Trova Santiaguera,Latin,2022.0
-52,Face to Face (feat. Stevie Nicks),"Dave Stewart, Борис Гребенщиков & Сергей Бабкин",Singer/Songwriter,2022.0
-53,L.I.E.C,MAMAMOO,K-Pop,2022.0
 54,Cardboard Box (Happi Remix),FLO & Happi,R&B/Soul,2022.0
 55,The Loneliest Time (feat. Rufus Wainwright),Carly Rae Jepsen,Pop,2022.0
 56,Bodies,Damn Dad & The Game,Hip Hop/Rap,2022.0
@@ -1630,7 +1186,6 @@ rank,song,artist,genre,year
 77,Si Se Enamora De Mi,Polo Montañez,World,2022.0
 78,The Soundtrack (feat. Meek Mill) [Radio Edit],The Game,Hip-Hop,2022.0
 79,Rivers Of Babylon (Club Mix),Boney M. 2000,Pop,2022.0
-80,Wake Me Up,Jonny May,Jazz,2022.0
 81,Someone Like You (Cover),Ariel Currant,Pop,2022.0
 82,Sauce,The Game,Hip Hop/Rap,2022.0
 83,Bururu Barara,Grupo Sierra Maestra,Salsa y Tropical,2022.0
@@ -1642,25 +1197,13 @@ rank,song,artist,genre,year
 89,The Table (feat. Masta Killa),Raekwon & Masta Killa,Hip Hop/Rap,2022.0
 90,The Future (Radio) [feat. The Game],Joe Budden,Hip Hop/Rap,2022.0
 91,Bailando (feat. Descemer Bueno & Gente de Zona),Enrique Iglesias,Pop,2022.0
-92,Happy (Oktoberfest Mix),Pharrell Williams,Pop,2022.0
-93,Someone Like You,Adele,Pop,2022.0
-94,Rolling In the Deep,Adele,Pop,2022.0
-95,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
-96,Locked Out of Heaven,Bruno Mars,Pop,2022.0
 97,El Perdón (with Enrique Iglesias),Enrique Iglesias & Nicky Jam,Latin Urban,2022.0
 1,Vi Är På Riktigt,Laleh & Darin,Pop,2022.0
-2,Say My Name,ATEEZ,K-Pop,2022.0
 3,Dancing on My Own,Robyn,Pop,2022.0
 4,Time,Hans Zimmer,Soundtrack,2022.0
-5,Shivers,Ed Sheeran,Pop,2022.0
-6,As It Was,Harry Styles,Pop,2022.0
 7,Banan Melon Kiwi & Citron,Hooja,Pop,2022.0
 8,X,Miss Li,Pop,2022.0
-9,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
 10,Run To The Hills,Klara Hammarström,Pop,2022.0
-11,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-12,"Hold My Hand (Music From The Motion Picture ""Top Gun: Maverick"")",Lady Gaga,Pop,2022.0
-13,All By Myself,"Alok, Sigala & Ellie Goulding",Dance,2022.0
 14,Scream 〜万魔殿パンデモニウム:煉獄編〜,Masayoshi Soken,Soundtrack,2022.0
 15,Hångel på balkongen,Clara Klingenström,Pop,2022.0
 16,Out of My Head,First Aid Kit,Alternative,2022.0
@@ -1671,13 +1214,11 @@ rank,song,artist,genre,year
 21,"De Fire Årstider, Opus 8, No. 1 - 4, Konsert No. 1, I E-Dur 'Høsten': 2. Adagio Molto","Bjarne Fiskum, TrondheimSolistene & Marianne Thorsen",Classical,2022.0
 22,Home,Vacations,Alternative,2022.0
 23,20s,Chronic Law,Modern Dancehall,2022.0
-24,Therapy pt. 2 (feat. Mac Miller),Robert Glasper,Jazz,2022.0
 25,Bad Fruit*,Jean Dawson & Earl Sweatshirt,Alternative,2022.0
 26,Balenciaga,T3NZU,Dance,2022.0
 27,Night Life (Slowed),T3NZU,Dance,2022.0
 28,Air Guitar,Sobs,Pop,2022.0
 29,PIRATE RADIO*,Jean Dawson,Alternative,2022.0
-30,TORO,Jowell & Randy,Latin,2022.0
 31,Uplifting Corporate,Dmitro Khatskevych,Electronic,2022.0
 32,Kosandra / Kasandra,T3NZU,Dance,2022.0
 33,Mitt i juni,metin & Louis,Folk,2022.0
@@ -1696,17 +1237,14 @@ rank,song,artist,genre,year
 46,Dagen är nära,Johan Stengård,Contemporary Gospel,2022.0
 47,Bezos Vs Hung Up,Pontech,Electronic,2022.0
 48,Terminal Velocity - Act 2 (Remix),SEGA / Jun Senoue,Anime,2022.0
-49,Warrior,Red Maple & Kris Kiss,Dance,2022.0
 50,Doja (Radio Edit),Paris La Mont,R&B/Soul,2022.0
 51,The Beast Is Out There (feat. Audrey Wasilewski),Over The Garden Wall & The Blasting Company,Soundtrack,2022.0
 52,The Worms Crawl In (The Hearse Song),Creature Feature,Electronic,2022.0
 53,Useless,Omar Apollo,Alternative,2022.0
 54,Get Ready for This,CDM Project,Electronic,2022.0
 55,Curiosity (feat. Redman) [Marley Marl Remix],Aaron Hall,Hip Hop/Rap,2022.0
-56,Monster Mash,Sharon Needles,Holiday,2022.0
 57,Nightcrawler (Remix),DIPS & Lo-Wu,Hip Hop/Rap,2022.0
 58,Feels Like Rain,Van Dyck Inc.,Blues,2022.0
-59,Feels Like Rain,Michelle Rumball,Singer/Songwriter,2022.0
 60,Feels Like Rain (Radio Edit),Pascal Geiser,Blues,2022.0
 61,The World Burns Around Us,Secession Studios & Greg Dombrowski,Instrumental,2022.0
 62,The Black Bear / The Campbells Are Coming / Amazing Grace / The Rowan Tree / Cabar Feidh / Dumbarton's Drum / The Mason's Apron / Ghillie Callum / Castle Craig,Massed Pipes and Drums,World,2022.0
@@ -1714,151 +1252,69 @@ rank,song,artist,genre,year
 64,Minnen vi Har,Jelzze,Hip Hop/Rap,2022.0
 65,"Bang, Bang, Boom",The Unknown,Rock,2022.0
 66,It's Time To Go,Boyd Jarvis,Electronic,2022.0
-67,Wake Me Up,Avicii,House,2022.0
-68,Euphoria (Single Version),Loreen,Dance,2022.0
-69,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] [feat. Freshlyground],Shakira,Pop,2022.0
 70,Mikrofonkåt (Punchy Remix),September,Dance,2022.0
-71,Rolling In the Deep,Adele,Pop,2022.0
-72,Set Fire to the Rain,Adele,Pop,2022.0
 73,Händerna Mot Himlen,Petra Marklund,Pop,2022.0
 74,Om Du Lämnade Mig Nu,Lars Winnerbäck & Miss Li,Pop,2022.0
-75,Gangnam Style,PSY,Pop,2022.0
-76,Love the Way You Lie (feat. Rihanna),Eminem,Hip Hop/Rap,2022.0
-77,Bad Romance (Starsmith Remix),Lady Gaga,Pop,2022.0
-78,Don't Stop Believin',Journey,Rock,2022.0
 79,What Are Words,Chris Medina,Pop,2022.0
-80,Somebody That I Used to Know (feat. Kimbra),Gotye,Alternative,2022.0
-81,Some Die Young,Laleh,Pop,2022.0
-82,Someone Like You,Adele,Pop,2022.0
 83,Vart Jag Än Går,Stiftelsen,Rock,2022.0
 84,Popular,Eric Saade,Dance,2022.0
-85,Happy (Oktoberfest Mix),Pharrell Williams,Pop,2022.0
 86,Don't You Worry Child (feat. John Martin) [Acoustic Version] [Bonus Track],Swedish House Mafia,Dance,2022.0
 87,Utan Dina Andetag,Kent,Alternative,2022.0
-88,I'm Yours,Jason Mraz,Pop,2022.0
 89,Från och med du,Oskar Linnros,Pop,2022.0
 90,Fairytale (Holter & Erixson Remix),Alexander Rybak,Pop,2022.0
-91,Hey Brother,Avicii,House,2022.0
 92,Greyhound (Live),Swedish House Mafia,Dance,2022.0
-93,Skyfall,Adele,Pop,2022.0
 94,Highway Man,Hoffmaestro,Pop,2022.0
 95,Hallelujah,Jeff Buckley,Alternative,2022.0
 96,Gubben i lådan (Instrumental),Daniel Adams-Ray,Pop,2022.0
 97,Dansa Pausa,Panetoz,Hip Hop/Rap,2022.0
-1,I'm Good (Blue),David Guetta & Bebe Rexha,Dance,2022.0
-2,THE LONELIEST,Måneskin,Rock,2022.0
-3,Einmal sehen wir uns wieder,Joel Brandenstein,Pop,2022.0
-4,SNAP,Rosa Linn,Indie Pop,2022.0
-5,Call on me (feat. Ed Sheeran),Vianney,French Pop,2022.0
-6,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-7,Calm Down,Rema,World,2022.0
-8,Layla,DJ Robin & Schürze,German Pop,2022.0
-9,I Believe,KAMRAD,Pop,2022.0
-10,As It Was,Harry Styles,Pop,2022.0
-11,Forget Me,Lewis Capaldi,Alternative,2022.0
-12,Don't Stop Believin',Teddy Swims,Pop,2022.0
-13,Hold My Hand,Lady Gaga,Pop,2022.0
 14,Perfect Symphony,Ed Sheeran & Andrea Bocelli,Classical Crossover,2022.0
-15,Shivers,Ed Sheeran,Pop,2022.0
-16,Solo Para Ti,Alvaro Soler & Topic,Pop in Spanish,2022.0
-17,Dirty Dancing (feat. Asdis),Glockenbach,Dance,2022.0
-18,I Ain't Worried,OneRepublic,Pop,2022.0
-19,Hold Me Closer,Elton John & Britney Spears,Pop,2022.0
-20,Bam Bam (feat. Ed Sheeran),Camila Cabello,Pop,2022.0
-21,Celestial,Ed Sheeran,Pop,2022.0
-22,DON'T YOU WORRY,"Black Eyed Peas, Shakira & David Guetta",Pop,2022.0
 23,Clown,Emeli Sandé,Pop,2022.0
 24,I steh auf Bergbauernbuam,Melissa Naschenweng,German Pop,2022.0
-25,Unholy,Sam Smith & Kim Petras,Pop,2022.0
-26,Irrelevant,P!nk,Pop,2022.0
-27,How Do I Say Goodbye,Dean Lewis,Singer/Songwriter,2022.0
 28,you were there for me,Henry Moodie,Pop,2022.0
-29,The Pirate's Gospel,Alela Diane,Pop,2022.0
 30,Catena,Kendji Girac & L'Avvinta,French Pop,2022.0
-31,Shallow,Lady Gaga & Bradley Cooper,Soundtrack,2022.0
-32,Another Love,Tom Odell,Singer/Songwriter,2022.0
 33,It'll Be Okay,Shawn Mendes,Pop,2022.0
-34,Bones,Imagine Dragons,Alternative,2022.0
-35,Ferrari,James Hype & Miggy Dela Rosa,Dance,2022.0
 36,Next to you,Joya Marleen,Pop,2022.0
-37,When You're Gone,Shawn Mendes,Pop,2022.0
 38,I Want It That Way,Backstreet Boys,Pop,2022.0
-39,Sharks,Imagine Dragons,Alternative,2022.0
 40,Thunder,"Gabry Ponte, LUM!X & Prezioso",Dance,2022.0
-41,La recette,Slimane,French Pop,2022.0
-42,CUFF IT,Beyoncé,Pop,2022.0
-43,Kiss Me,Dermot Kennedy,Pop,2022.0
 44,Questions,Lost Frequencies & James Arthur,Dance,2022.0
 45,Terra Corsa,"Corsu - Mezu Mezu, Patrick Fiori, Patrick Bruel, Florent Pagny & Jean-Charles Papi",French Pop,2022.0
-46,"I Know Where I've Been (from the Netflix Film ""Luckiest Girl Alive"")",Elle King,Pop,2022.0
-47,Best Bad Friend,Michael Patrick Kelly & Rea Garvey,Pop,2022.0
 48,Codo,Jim Mertens,German Pop,2022.0
-49,Paradise,Coldplay,Alternative,2022.0
-50,Perfect,Ed Sheeran,Pop,2022.0
 51,Replay,Iyaz,Pop,2022.0
 52,We Are the World,U.S.A. for Africa,Rock,2022.0
-53,Always Remember Us This Way,Lady Gaga,Soundtrack,2022.0
-54,Jerusalema (feat. Nomcebo Zikode) [Edit],Master KG,Dance,2022.0
 55,Das Feyr vo dr Sehnsucht (Lange Version),Francine Jordi & Jodlerklub Wiesenberg,German Folk,2022.0
 56,I Will Always Love You,Whitney Houston,Pop,2022.0
 57,Una Mattina,Ludovico Einaudi,Classical,2022.0
-58,Time,Hans Zimmer,Soundtrack,2022.0
-59,Gangsta's Paradise (feat. L.V.),Coolio,Hip Hop/Rap,2022.0
 60,"Still Falling for You (From ""Bridget Jones's Baby"")",Ellie Goulding,Pop,2022.0
-61,Blinding Lights,The Weeknd,R&B/Soul,2022.0
 62,Maniac,Michael Sembello,Soundtrack,2022.0
-63,Another Love (Zwette Edit),Tom Odell,Singer/Songwriter,2022.0
 64,Desert Rose,Sting,Rock,2022.0
-65,Pepas,Farruko,Latin Urban,2022.0
 66,Blurry Eyes,Michael Patrick Kelly,Pop,2022.0
 67,Nightmare,Joya Marleen,Pop,2022.0
 68,Fragile,Sting,Rock,2022.0
-69,In The Dark,Purple Disco Machine & Sophie and the Giants,Dance,2022.0
 70,Overpass Graffiti,Ed Sheeran,Pop,2022.0
-71,Remedy,Leony,Pop,2022.0
 72,Patience,"Damian ""Jr. Gong"" Marley & Nas",Reggae,2022.0
 73,It Was A Good Day,Ice Cube,Hip Hop/Rap,2022.0
 74,(Everything I Do) I Do It for You,Bryan Adams,Rock,2022.0
 75,Smalltown Boy,Bronski Beat,Pop,2022.0
 76,Et Bam,Mentissa,French Pop,2022.0
-77,West Coast,OneRepublic,Pop,2022.0
-78,Belly Dancer,Imanbek & BYOR,Dance,2022.0
-79,DESPECHÁ,ROSALÍA,Pop in Spanish,2022.0
 80,I Gotta Feeling,Black Eyed Peas,Pop,2022.0
-81,Bellissima,Annalisa,Pop,2022.0
 82,Waiting For Love,Marius Bear,Pop,2022.0
-83,Olivia (feat. DJ Cashi),Die Zipfelbuben,German Pop,2022.0
 84,Main Titles (You've Been Called Back to Top Gun),"Lorne Balfe, Harold Faltermeyer, Lady Gaga & Hans Zimmer",Soundtrack,2022.0
 85,Jedi Sekunde,Halunke,Pop,2022.0
-86,Green Green Grass,George Ezra,Singer/Songwriter,2022.0
-87,Stay With Me,"Calvin Harris, Justin Timberlake, Halsey & Pharrell Williams",Dance,2022.0
-88,I'm Good (Blue) [Extended],David Guetta & Bebe Rexha,Dance,2022.0
-89,Baraye,Shervin Hajipour,R&B/Soul,2022.0
-90,Caramello,"Rocco Hunt, Elettra Lamborghini & Lola Índigo",Pop,2022.0
 91,Trop beau,Lomepal,Hip Hop/Rap,2022.0
-92,Glimpse of Us,Joji,Pop,2022.0
 93,Wrecked,Imagine Dragons,Alternative,2022.0
 94,Anyone For You (Tiger Lily),George Ezra,Singer/Songwriter,2022.0
 95,A Hard Day's Night,The Beatles,Rock,2022.0
 96,Die ganze Nacht (Dance Mix),Melissa Naschenweng,German Pop,2022.0
-97,Sunroof,Nicky Youre & Dazy,Pop,2022.0
-98,Sun Will Shine,Robin Schulz & Tom Walker,Dance,2022.0
-99,SNAP,Rosa Linn,Indie Pop,2022.0
-100,Calm Down,Rema & Selena Gomez,Pop,2022.0
 1,Leave The Door Open,Silk Sonic,R&B,2021.0
-2,Peaches,Justin Bieber featuring Daniel Caesar & Giveon,R&B,2021.0
 3,Rumors,Lizzo,R&B,2021.0
 4,Go Crazy,Chris Brown & Young Thug,R&B,2021.0
 5,Roses,Saint Jhn,R&B,2021.0
-6,No Love,Summer Walker & SZA,R&B,2021.0
 7,You're Mines Still,Yung Bleu featuring Drake,R&B,2021.0
-8,Blinding Lights,The Weeknd,R&B,2021.0
 9,Heartbreak Anniversary,Giveon,R&B,2021.0
 10,Mood,24Kgoldn featuring Iann Dior,R&B,2021.0
 11,No Return,Polo G featuring The Kid Laroi,R&B,2021.0
 12,You Right,Doja Cat & The Weeknd,R&B,2021.0
 13,Good Days,SZA,R&B,2021.0
-14,Astronaut In The Ocean,Masked Wolf,R&B,2021.0
 15,Streets,Doja Cat,R&B,2021.0
 16,Rockstar,Dababy featuring Roddy Ricch,R&B,2021.0
 17,Bad Morning,YoungBoy Never Broke Again,R&B,2021.0
@@ -1873,7 +1329,6 @@ rank,song,artist,genre,year
 26,Come Through,H.E.R. featuring Chris Brown,R&B,2021.0
 27,Juggernaut,Tyler the Creator,R&B,2021.0
 28,Pick Up Your Feelings,Jazmine Sullivan,R&B,2021.0
-29,Lemonade,Internet Money & Gunna & Toliver,R&B,2021.0
 30,Latest Trends,A1 x J1,R&B,2021.0
 31,Gyalis,Capella Grey,R&B,2021.0
 32,Rapstar,Polo G,R&B,2021.0
@@ -1900,7 +1355,6 @@ rank,song,artist,genre,year
 53,Dead Man Walking,Brent Faiyaz,R&B,2021.0
 54,Gravity,"Brent Faiyaz & DJ Dahi featuring Tyler, The Creator",R&B,2021.0
 55,Hit Different,SZA featuring Ty Dolla $ign,R&B,2021.0
-56,Toxic,Summer Walker,R&B,2021.0
 57,For The Night,Pop Smoke & Lil Baby & Dababy,R&B,2021.0
 58,Hot Wind Blows,Tyler The Creator & Lil Wayne,R&B,2021.0
 59,Best Friend,Saweetie featuring Doja Cat,R&B,2021.0
@@ -1942,11 +1396,9 @@ rank,song,artist,genre,year
 95,4th Baby Mama,Summer Walker,R&B,2021.0
 96,Wants And Needs,Drake featuring Lil Baby,R&B,2021.0
 97,Broken Promises,Summer Walker,R&B,2021.0
-98,Body,Megan Thee Stallion,R&B,2021.0
 99,Nevada,YoungBoy Never Broke Again,R&B,2021.0
 100,Beat Box,SpotemGottem featuring Pooh Shiesty Or DaBaby,R&B,2021.0
 1,Forever After All,Luke Combs,Country,2021.0
-2,Fancy Like,Walker Hayes,Country,2021.0
 3, Starting Over,Chris Stapleton,Country,2021.0
 4,Glad You Exist,Dan + Shay,Country,2021.0
 5,Things a Man Oughta Know,Lainey Wilson,Country,2021.0
@@ -1966,7 +1418,6 @@ rank,song,artist,genre,year
 19,Drunk (And I Don't Wanna Go Home),Elle King & Miranda Lambert,Country,2021.0
 20,What's Your Country Song,Thomas Rhett,Country,2021.0
 21,Half of My Hometow,Kelsea Ballerini featuring Kenny Chesney,Country,2021.0
-22,Sand In My Boots,Morgan Wallen,Country,2021.0
 23,Single Saturday Night,Cole Swindell,Country,2021.0
 24,Hell Of A View,Eric Church,Country,2021.0
 25,Almost Maybes,Jordan Davis,Country,2021.0
@@ -1983,7 +1434,6 @@ rank,song,artist,genre,year
 36,Next Girl ,Carly Pearce,Country,2021.0
 37,Breaking Up Was Easy In The 90's,Sam Hunt,Country,2021.0
 38,You Should Probably Leave,Chris Stapleton,Country,2021.0
-39,Wasted On You,Morgan Wallen,Country,2021.0
 40,Blame It On You,Jason Aldean,Country,2021.0
 41,Drinkin' Beer. Talkin' God. Amen.,Chase Rice featuring Florida Georgia Line,Country,2021.0
 42,Made for You,Jake Owen,Country,2021.0
@@ -1991,7 +1441,6 @@ rank,song,artist,genre,year
 44,Good Things,Dan + Shay,Country,2021.0
 45,We Didn't Have Much,Justin Moore,Country,2021.0
 46,I'm Not for Everyone,Brothers Osborne,Country,2021.0
-47,Waves,Luke Bryan,Country,2021.0
 48,Just About Over You,Priscilla Block,Country,2021.0
 49,Never Wanted to Be That Girl, Carly Pearce & Ashley McBryde,Country,2021.0
 50,Minimum Wage,Blake Shelton,Country,2021.0
@@ -2024,7 +1473,6 @@ rank,song,artist,genre,year
 77,Happy Anywhere,Blake Shelton featuring Gwen Stefani,Country,2021.0
 78,I Should Probably Go to Bed,Dan + Shay,Country,2021.0
 79, Thinking 'Bout You,Dustin Lynch featuring MacKenzie Porter,Country,2021.0
-80,Shallow,Garth Brooks & Trisha Yearwood,Country,2021.0
 81,Lady Like,Ingrid Andress,Country,2021.0
 82,Still Goin Down,Morgan Wallen,Country,2021.0
 83,Pretty Heart,Parker McCollum,Country,2021.0
@@ -2032,7 +1480,6 @@ rank,song,artist,genre,year
 85,Love You Like I Used To,Russell Dickerson,Country,2021.0
 86,"Big, Big Plans",Chris Lane,Country,2021.0
 87,865,Morgan Wallen,Country,2021.0
-88,Warning,Morgan Wallen,Country,2021.0
 89,Champagne Night,Lady A,Country,2021.0
 90,Dangerous,Morgan Wallen,Country,2021.0
 91,Love Story (Taylor's Version),Taylor Swift,Country,2021.0
@@ -2047,9 +1494,7 @@ rank,song,artist,genre,year
 100,Bad Trick,"Ray Wylie Hubbard featuring Ringo Starr, Don Was, Joe Walsh & Chris Robinson",Country,2021.0
 1,Waiting On A War,Foo Fighters,Rock & Roll,2021.0
 2,Monsters,All Time Low featuring blackbear,Rock & Roll,2021.0
-3,Mood,24kGoldn featuring iann Dior,Rock & Roll,2021.0
 4,Follow You,Imagine Dragons,Rock & Roll,2021.0
-5,Heat Waves,Glass Animals,Rock & Roll,2021.0
 6,Darkness Settles In,Five Finger Death Punch,Rock & Roll,2021.0
 7,Without You,The Kid Laroi,Rock & Roll,2021.0
 8, Making A Fire,Foo Fighters,Rock & Roll,2021.0
@@ -2070,12 +1515,9 @@ rank,song,artist,genre,year
 23,The Bandit,Kings of Leon,Rock & Roll,2021.0
 24,Shy Away,twenty one pilots,Rock & Roll,2021.0
 25,A-O-K,Tai Verdes,Rock & Roll,2021.0
-26,Wrecked,Imagine Dragons,Rock & Roll,2021.0
 27,Find My Way,Paul McCartney,Rock & Roll,2021.0
-28,Drunk (And I Don't Wanna Go Home),Elle King & Miranda Lambert,Rock & Roll,2021.0
 29,Higher Power,Coldplay,Rock & Roll,2021.0
 30,Happier Than Ever,Billie Eilish,Rock & Roll,2021.0
-31,My Universe,Coldplay featuring BTS,Rock & Roll,2021.0
 32,Your Power,Billie Eilish,Rock & Roll,2021.0
 33,Brutal,Olivia Rodrigo,Rock & Roll,2021.0
 34,Bed Head,Manchester Orchestra,Rock & Roll,2021.0
@@ -2091,7 +1533,6 @@ rank,song,artist,genre,year
 44,t r a n s p a r e n t s o u l,Willow featuring Travis Barker,Rock & Roll,2021.0
 45,Fire For You,Cannons,Rock & Roll,2021.0
 46,Love Race,Machine Gun Kelly featuring Kellin Quinn,Rock & Roll,2021.0
-47,Deep End,Fousheé,Rock & Roll,2021.0
 48,Violent,carolesdaughter,Rock & Roll,2021.0
 49,Solar Power,Lorde,Rock & Roll,2021.0
 50,Once In A Lifetime,All Time Low,Rock & Roll,2021.0
@@ -2108,14 +1549,12 @@ rank,song,artist,genre,year
 61,I Hope Ur Miserable Until Ur Dead,Nessa Barrett,Rock & Roll,2021.0
 62,Down,St. Vincent,Rock & Roll,2021.0
 63,Overwhelmed,Royal and The Serpent,Rock & Roll,2021.0
-64,Champagne Problems,Taylor Swift,Rock & Roll,2021.0
 65,Stop Making This Hurt,Bleachers,Rock & Roll,2021.0
 66,Shame Shame,Foo Fighters,Rock & Roll,2021.0
 67,What You Say,Cold War Kids,Rock & Roll,2021.0
 68,You,"benny blanco, Marshmello & Vance Joy",Rock & Roll,2021.0
 69,Colorado,Milky Chance,Rock & Roll,2021.0
 70,Time In Disguise,Kings of Leon,Rock & Roll,2021.0
-71,Life Goes On,Oliver Tree,Rock & Roll,2021.0
 72,Happy Endings,Mike Shinoda featuring iann dior & Upsahl,Rock & Roll,2021.0
 73,The Sun Hasn't Left,Modest Mouse,Rock & Roll,2021.0
 74,Bloody Valentine,Machine Gun Kelly,Rock & Roll,2021.0
