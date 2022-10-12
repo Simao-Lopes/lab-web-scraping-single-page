@@ -1,0 +1,8 @@
+# 1C external data processors on unmanaged formes
+
+**/Form/**/form
+src/**/und/*
+src/**/maps.txt
+src/**/renames.txt
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#1C
