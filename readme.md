@@ -11,7 +11,7 @@ A spotify direct link will be provided.
 
 #### Files included
    
-- 01 - Lab_web_scrapper. This script scraps the web for the best top100 playlists and saves them into a dataset for further usage in the main script.
+- 01 - Web scraper. This script scraps the web for the best top100 playlists and saves them into a dataset for further usage in the main script.
 - 02 - Spotify. Gets a massive list of songs from spotify, if you want to add some new playlists just run the script inserting a line in the end of the 5th cell following this structure.
 '''
 playlist_df.loc[len(playlist_df.index)] = ['Your playlist Name', 'playlist URI']
@@ -26,11 +26,11 @@ playlist_df.loc[len(playlist_df.index)] = ['Your playlist Name', 'playlist URI']
 - Logo. Folder for the logo of our app.
 - Model_data. Stores the models and transformers needed, please don't remove.
 
-## License
-
-This is an educational project, all materials can be used freelly.
-
 ## Used techologies
 
 - Spotify API
 - Python
+
+## License
+
+This is an educational project, all materials can be used freelly.
