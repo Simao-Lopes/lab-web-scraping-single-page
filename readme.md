@@ -1,24 +1,36 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+![logo](https://raw.githubusercontent.com/Simao-Lopes/lab-web-scraping-single-page/master/Logo/Gnoosic.PNG)
 
-# Lab | Web Scraping Single Page
+# Your best song suggesting tool
 
-#### Business goal:
+## Usage  
+   
+The main component is the file 05 - User Randomizer. Just run the script type a song that you like and a nice song will be sugested, either from our top hits list or from our curated list.  
+A spotify direct link will be provided.
 
-- Check the `case_study_gnod.md` file.
-- Make sure you've understood the big picture of your project:
+## Developer instructions
 
-  - the goal of the company (`Gnod`),
-  - their current product (`Gnoosic`),
-  - their strategy, and
-  - how your project fits into this context.
+#### Files included
+   
+- 01 - Lab_web_scrapper. This script scraps the web for the best top100 playlists and saves them into a dataset for further usage in the main script.
+- 02 - Spotify. Gets a massive list of songs from spotify, if you want to add some new playlists just run the script inserting a line in the end of the 5th cell following this structure.
+'''
+playlist_df.loc[len(playlist_df.index)] = ['Your playlist Name', 'playlist URI']
+'''
+- 03 - Clustering. This script clusters our big database previously built in the 02 script using KNN cluster model with 8 nodes. Be aware that you must pickle both the new clustering model and the transformer to be used in the main script. Warning: executing this takes really long, use only if the main dataset is changed or has to be recalculated.
+- 04 - Get Hot songs URI on spotify. This script gets all the uri for our top100 dataset, and appends a nex column before saving it to a csv file so that in the main script we can sugest a link. 
+- 05 - User randomizer. The main script, execute and enjoy.
 
-  Re-read the business case and the e-mail from the CTO, take a look at the flowchart and create an initial Trello board with the tasks you think you'll have to accomplish.
+##### Folders
 
-#### Instructions - Scraping popular songs
+- Data. Stores all the csv's used on the project. 
+- Logo. Folder for the logo of our app.
+- Model_data. Stores the models and transformers needed, please don't remove.
 
-Your product will take a song as an input from the user and will output another song (the recommendation). In most cases, the recommended song will have to be similar to the inputted song, but the CTO thinks that if the song is on the top charts at the moment, the user will enjoy more a recommendation of a song that's also popular at the moment.
+## License
 
-You have find data on the internet about currently popular songs. Billboard maintains a weekly Top 100 of "hot" songs here: [https://www.billboard.com/charts/hot-100](https://www.billboard.com/charts/hot-100).
+This is an educational project, all materials can be used freelly.
 
-It's a good place to start! Scrape the current top 100 songs and their respective artists, and put the information into a pandas dataframe.
+## Used techologies
 
+- Spotify API
+- Python
