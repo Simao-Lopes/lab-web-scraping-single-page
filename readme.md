@@ -4,7 +4,7 @@
 
 ## Usage  
    
-The main component is the file 05 - User Randomizer. Just run the script type a song that you like and a nice song will be sugested, either from our top hits list or from our curated list.  
+The main component is the **file 05 - User Randomizer.** Just run the script type a song that you like and a nice song will be sugested, either from our top hits list or from our curated list.  
 A spotify direct link will be provided.
 
 ## Developer instructions
