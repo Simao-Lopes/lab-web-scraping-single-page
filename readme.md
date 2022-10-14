@@ -9,7 +9,7 @@ A spotify direct link will be provided.
 
 ## Developer instructions
 
-#### Files included
+### Files included
    
 - **01 - Web scraper.** This script scraps the web for the best top100 playlists and saves them into a dataset for further usage in the main script.
 - **02 - Spotify.** Gets a massive list of songs from spotify, if you want to add some new playlists just run the script inserting a line in the end of the 5th cell following this structure.
@@ -24,11 +24,11 @@ playlist_df.loc[len(playlist_df.index)] = ['Your playlist Name', 'playlist URI']
 streamlit run app.py 
 '''
 
-##### Folders
+### Folders
 
-- Data. Stores all the csv's used on the project. 
-- Logo. Folder for the logo of our app.
-- Model_data. Stores the models and transformers needed, please don't remove.
+- **Data.** Stores all the csv's used on the project. 
+- **Logo.** Folder for the logo of our app.
+- **Model_data.** Stores the models and transformers needed, please don't remove.
 
 ## Used techologies
 
